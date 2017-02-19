@@ -37,7 +37,6 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) 						   | Thriller/Mystery          | 1999 | 7/10   |
 
 
-
 ## Science Fiction/Fantasy
 
 | MOVIE																				   | GENRE					   | YEAR | RATING |

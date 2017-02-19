@@ -35,3 +35,10 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Hacker's Game](http://www.imdb.com/title/tt3140724/) 							   | Drama/Thriller            | 2015 | 3.8/10 |
 | [Blackhat](http://www.imdb.com/title/tt2717822/)									   | Drama/Thriller            | 2015 | 5.4/10 |
 | [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) 						   | Thriller/Mystery          | 1999 | 7/10   |
+
+
+
+## Science Fiction/Fantasy
+
+| MOVIE																				   | GENRE					   | YEAR | RATING |
+|--------------------------------------------------------------------------------------|---------------------------|------|--------|

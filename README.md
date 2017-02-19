@@ -71,3 +71,13 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Hackers Are People Too](http://www.imdb.com/title/tt1279942/) 					   | Short Film/Documentary    | 2008 | 6.1/10 |
 | [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/)  | Documentary               | 2012 | 7.3/10 |
 | [The KGB, the Computer and Me](http://www.imdb.com/title/tt0308449/) 				   | Documentary               | 1990 | 8.3/10 |
+| [Hacking Democracy](http://www.imdb.com/title/tt0808532/) 						   | Documentary               | 2006 | 7.9/10 |
+| [Citizenfour](http://www.imdb.com/title/tt4044364/)								   | Biography/Documentary     | 2014 | 8.1/10 |
+| [We Steal Secrets: The Story of WikiLeaks](http://www.imdb.com/title/tt1824254/) 	   | Documentary               | 2013 | 6.9/10 |
+| [TPB AFK: The Pirate Bay Away from Keyboard](http://www.imdb.com/title/tt2608732/)   | Documentary               | 2013 | 7.6/10 |
+| [War for the Web](http://www.imdb.com/title/tt2390367/) 							   | Documentary         	   | 2015 | 7.4/10 |
+| [Downloaded](http://www.imdb.com/title/tt2033981/)								   | Documentary          	   | 2013 | 6.8/10 |
+| [Steal This Film](http://www.imdb.com/title/tt1422757/) 							   | Short Film/Documentary    | 2006 | 7.1/10 |
+| [Deep Web](http://www.imdb.com/title/tt3312868/) 									   | Documentary         	   | 2015 | 7.1/10 |
+| [DEFCON: The Documentary](http://www.imdb.com/title/tt3010462/) 					   | Documentary         	   | 2013 | 5.7/10 |
+| [DSKNECTD](http://www.imdb.com/title/tt2417174/)									   | Documentary         	   | 2013 | 7.4/10 |

@@ -3,7 +3,7 @@
 A curated list of movies every hacker & cyberpunk must watch.
 
 - [Movies For Hackers](#movies-for-hackers)
-	- [Thrillers/Drama](#thrilles--drama)
+	- [Thrillers/Drama](#thrillers--drama)
 	- [Science Fiction/Fantasy](#science-fiction--fantasy)
 	- [Action](#action)
 	- [Documentaries](#documentaries)

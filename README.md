@@ -63,4 +63,11 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 | MOVIE																				   | GENRE					   | YEAR | RATING |
 |--------------------------------------------------------------------------------------|---------------------------|------|--------|
-
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) 				   | Television film/Docudrama | 1999 | 7.3/1  |
+| [Freedom Downtime](http://www.imdb.com/title/tt0309614/) 							   | Documentary               | 2001 | 7.6/10 |
+| [The Code](http://www.imdb.com/title/tt0315417/) 									   | Documentary               | 2001 | 7.5/10 |
+| [Code 2600](http://www.imdb.com/title/tt1830538/) 								   | Documentary               | 2012 | 7.4/10 |
+| [Revolution OS](http://www.imdb.com/title/tt0308808/) 							   | Indie film/Documentary    | 2001 | 7.3/10 |
+| [Hackers Are People Too](http://www.imdb.com/title/tt1279942/) 					   | Short Film/Documentary    | 2008 | 6.1/10 |
+| [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/)  | Documentary               | 2012 | 7.3/10 |
+| [The KGB, the Computer and Me](http://www.imdb.com/title/tt0308449/) 				   | Documentary               | 1990 | 8.3/10 |

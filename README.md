@@ -53,4 +53,10 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 | MOVIE																				   | GENRE					   | YEAR | RATING |
 |--------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [Sneakers](http://www.imdb.com/title/tt0105435/) 									   | Thriller/Action           | 1992 | 7.1/10 |
+| [Firewall](http://www.imdb.com/title/tt0408345/) 									   | Thriller/Action           | 2006 | 5.8/10 |
+| [Gamer](http://www.imdb.com/title/tt1034032/) 									   | Thriller/Action           | 2009 | 5.8/10 |
+| [Virtuosity](http://www.imdb.com/title/tt0114857/) 								   | Thriller/Action           | 1995 | 5.5/10 |
+| [Eagle Eye](http://www.imdb.com/title/tt1059786/)									   | Thriller/Action           | 2008 | 6.6/10 |
+
 

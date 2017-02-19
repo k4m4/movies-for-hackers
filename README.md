@@ -11,3 +11,8 @@ A curated list of movies every hacker & cyberpunk must watch.
 - [Contributing](#contributing)
 
 - - -
+
+## Thrillers/Drama
+
+| MOVIE																				   | GENRE					   | YEAR | RATING |
+|--------------------------------------------------------------------------------------|---------------------------|------|--------|

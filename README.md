@@ -81,3 +81,9 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Deep Web](http://www.imdb.com/title/tt3312868/) 									   | Documentary         	   | 2015 | 7.1/10 |
 | [DEFCON: The Documentary](http://www.imdb.com/title/tt3010462/) 					   | Documentary         	   | 2013 | 5.7/10 |
 | [DSKNECTD](http://www.imdb.com/title/tt2417174/)									   | Documentary         	   | 2013 | 7.4/10 |
+| [The Hacker Wars](http://www.imdb.com/title/tt4047350/)							   | Documentary         	   | 2014 | 6.6/10 |
+| [Hackers Wanted](http://www.imdb.com/title/tt2292707/) 							   | Indie film/Documentary    | 2009 | 6.5/10 |
+| [The Secret History Of Hacking](http://www.imdb.com/title/tt2335921/) 			   | Documentary               | 2001 | 7.6/10 |
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) 				   | Docudrama            	   | 1999 | 7.3/10 |
+| [Zero Days](http://www.imdb.com/title/tt5446858/)									   | Documentary           	   | 2016 | 7.8/10 |
+| [The Singularity](http://www.imdb.com/title/tt2073120/)							   | Drama/Science Fiction     | 2012 | 7.3/10 |

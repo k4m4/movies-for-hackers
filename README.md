@@ -42,3 +42,11 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 | MOVIE																				   | GENRE					   | YEAR | RATING |
 |--------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [The Matrix](http://www.imdb.com/title/tt0133093/)								   | Fantasy/Action			   | 1999 | 8.7/10 |
+| [The Lawnmower Man](http://www.imdb.com/title/tt0104692/) 						   | Fantasy/Action            | 1992 | 5.4/10 |
+| [Open Windows](http://www.imdb.com/title/tt2409818/) 								   | Fantasy/Crime             | 2014 | 5.2/10 |
+| [Ex Machina](http://www.imdb.com/title/tt0470752/)								   | Fantasy/Mystery           | 2015 | 7.7/10 |
+| [eXistenZ](http://www.imdb.com/title/tt0120907/) 									   | Science fiction/Thriller  | 1999 | 6.8/1| |
+| [One Point O](http://www.imdb.com/title/tt0317042/) 								   | Mystery/Science fiction   | 2004 | 6.2/10 |
+| [Inception](http://www.imdb.com/title/tt1375666/)									   | Mystery/Science fiction   | 2010 | 8.8/10 |
+

@@ -87,3 +87,8 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) 				   | Docudrama            	   | 1999 | 7.3/10 |
 | [Zero Days](http://www.imdb.com/title/tt5446858/)									   | Documentary           	   | 2016 | 7.8/10 |
 | [The Singularity](http://www.imdb.com/title/tt2073120/)							   | Drama/Science Fiction     | 2012 | 7.3/10 |
+
+
+# Other Cool Lists
+
+*Here are some more cool lists.*

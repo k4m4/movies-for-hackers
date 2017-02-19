@@ -51,5 +51,6 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 ## Action
 
-
+| MOVIE																				   | GENRE					   | YEAR | RATING |
+|--------------------------------------------------------------------------------------|---------------------------|------|--------|
 

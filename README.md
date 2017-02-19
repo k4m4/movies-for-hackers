@@ -61,4 +61,6 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 ## Documentaries
 
+| MOVIE																				   | GENRE					   | YEAR | RATING |
+|--------------------------------------------------------------------------------------|---------------------------|------|--------|
 

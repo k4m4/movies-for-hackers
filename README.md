@@ -1,7 +1,5 @@
 # Movies For Hackers
 
-A curated list of movies every hacker and cyberpunk must watch.
-
 A curated list of movies every hacker & cyberpunk must watch.
 
 - [Movies For Hackers](#movies-for-hackers)

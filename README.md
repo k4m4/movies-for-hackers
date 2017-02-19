@@ -92,3 +92,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 # Other Cool Lists
 
 *Here are some more cool lists.*
+
+* Awesome
+    * [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+    * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.

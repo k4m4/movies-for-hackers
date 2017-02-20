@@ -63,33 +63,33 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 ## Documentaries
 
-| MOVIE																				   | GENRE					   | YEAR | RATING |
-|--------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) 				   | Television film/Docudrama | 1999 | 7.3/1  |
-| [Freedom Downtime](http://www.imdb.com/title/tt0309614/) 							   | Documentary               | 2001 | 7.6/10 |
-| [The Code](http://www.imdb.com/title/tt0315417/) 									   | Documentary               | 2001 | 7.5/10 |
-| [Code 2600](http://www.imdb.com/title/tt1830538/) 								   | Documentary               | 2012 | 7.4/10 |
-| [Revolution OS](http://www.imdb.com/title/tt0308808/) 							   | Indie film/Documentary    | 2001 | 7.3/10 |
-| [Hackers Are People Too](http://www.imdb.com/title/tt1279942/) 					   | Short Film/Documentary    | 2008 | 6.1/10 |
-| [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/)  | Documentary               | 2012 | 7.3/10 |
-| [The KGB, the Computer and Me](http://www.imdb.com/title/tt0308449/) 				   | Documentary               | 1990 | 8.3/10 |
-| [Hacking Democracy](http://www.imdb.com/title/tt0808532/) 						   | Documentary               | 2006 | 7.9/10 |
-| [Citizenfour](http://www.imdb.com/title/tt4044364/)								   | Biography/Documentary     | 2014 | 8.1/10 |
-| [We Steal Secrets: The Story of WikiLeaks](http://www.imdb.com/title/tt1824254/) 	   | Documentary               | 2013 | 6.9/10 |
-| [TPB AFK: The Pirate Bay Away from Keyboard](http://www.imdb.com/title/tt2608732/)   | Documentary               | 2013 | 7.6/10 |
-| [War for the Web](http://www.imdb.com/title/tt2390367/) 							   | Documentary         	   | 2015 | 7.4/10 |
-| [Downloaded](http://www.imdb.com/title/tt2033981/)								   | Documentary          	   | 2013 | 6.8/10 |
-| [Steal This Film](http://www.imdb.com/title/tt1422757/) 							   | Short Film/Documentary    | 2006 | 7.1/10 |
-| [Deep Web](http://www.imdb.com/title/tt3312868/) 									   | Documentary         	   | 2015 | 7.1/10 |
-| [DEFCON: The Documentary](http://www.imdb.com/title/tt3010462/) 					   | Documentary         	   | 2013 | 5.7/10 |
-| [DSKNECTD](http://www.imdb.com/title/tt2417174/)									   | Documentary         	   | 2013 | 7.4/10 |
-| [The Hacker Wars](http://www.imdb.com/title/tt4047350/)							   | Documentary         	   | 2014 | 6.6/10 |
-| [Hackers Wanted](http://www.imdb.com/title/tt2292707/) 							   | Indie film/Documentary    | 2009 | 6.5/10 |
-| [The Secret History Of Hacking](http://www.imdb.com/title/tt2335921/) 			   | Documentary               | 2001 | 7.6/10 |
-| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) 				   | Docudrama            	   | 1999 | 7.3/10 |
-| [Zero Days](http://www.imdb.com/title/tt5446858/)									   | Documentary           	   | 2016 | 7.8/10 |
-| [The Singularity](http://www.imdb.com/title/tt2073120/)							   | Drama/Science Fiction     | 2012 | 7.3/10 |
-| [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)							   | Documentary     | 2014 | 8.1/10 |
+| MOVIE																				         | GENRE					 | YEAR | RATING |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) 				         | Television film/Docudrama | 1999 | 7.3/1  |
+| [Freedom Downtime](http://www.imdb.com/title/tt0309614/) 							         | Documentary               | 2001 | 7.6/10 |
+| [The Code](http://www.imdb.com/title/tt0315417/) 									         | Documentary               | 2001 | 7.5/10 |
+| [Code 2600](http://www.imdb.com/title/tt1830538/) 								         | Documentary               | 2012 | 7.4/10 |
+| [Revolution OS](http://www.imdb.com/title/tt0308808/) 							         | Indie film/Documentary    | 2001 | 7.3/10 |
+| [Hackers Are People Too](http://www.imdb.com/title/tt1279942/) 					         | Short Film/Documentary    | 2008 | 6.1/10 |
+| [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/)        | Documentary               | 2012 | 7.3/10 |
+| [The KGB, the Computer and Me](http://www.imdb.com/title/tt0308449/) 				         | Documentary               | 1990 | 8.3/10 |
+| [Hacking Democracy](http://www.imdb.com/title/tt0808532/) 						         | Documentary               | 2006 | 7.9/10 |
+| [Citizenfour](http://www.imdb.com/title/tt4044364/)								         | Biography/Documentary     | 2014 | 8.1/10 |
+| [We Steal Secrets: The Story of WikiLeaks](http://www.imdb.com/title/tt1824254/) 	         | Documentary               | 2013 | 6.9/10 |
+| [TPB AFK: The Pirate Bay Away from Keyboard](http://www.imdb.com/title/tt2608732/)         | Documentary               | 2013 | 7.6/10 |
+| [War for the Web](http://www.imdb.com/title/tt2390367/) 							         | Documentary         	     | 2015 | 7.4/10 |
+| [Downloaded](http://www.imdb.com/title/tt2033981/)								         | Documentary          	 | 2013 | 6.8/10 |
+| [Steal This Film](http://www.imdb.com/title/tt1422757/) 							         | Short Film/Documentary    | 2006 | 7.1/10 |
+| [Deep Web](http://www.imdb.com/title/tt3312868/) 									         | Documentary         	     | 2015 | 7.1/10 |
+| [DEFCON: The Documentary](http://www.imdb.com/title/tt3010462/) 					         | Documentary         	     | 2013 | 5.7/10 |
+| [DSKNECTD](http://www.imdb.com/title/tt2417174/)									         | Documentary         	     | 2013 | 7.4/10 |
+| [The Hacker Wars](http://www.imdb.com/title/tt4047350/)							         | Documentary         	     | 2014 | 6.6/10 |
+| [Hackers Wanted](http://www.imdb.com/title/tt2292707/) 							         | Indie film/Documentary    | 2009 | 6.5/10 |
+| [The Secret History Of Hacking](http://www.imdb.com/title/tt2335921/) 			         | Documentary               | 2001 | 7.6/10 |
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) 				         | Docudrama            	 | 1999 | 7.3/10 |
+| [Zero Days](http://www.imdb.com/title/tt5446858/)									         | Documentary           	 | 2016 | 7.8/10 |
+| [The Singularity](http://www.imdb.com/title/tt2073120/)							         | Drama/Science Fiction     | 2012 | 7.3/10 |
+| [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)	 | Documentary     	         | 2014 | 8.1/10 |
 
 
 # Other Cool Lists

@@ -1,3 +1,5 @@
+![Movies_For_Hackers_Logo](http://nikolaskama.me/content/images/2017/02/movies-for-hackers.png)
+
 # Movies For Hackers
 
 A curated list of movies every hacker & cyberpunk must watch.

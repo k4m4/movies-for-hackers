@@ -50,6 +50,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [eXistenZ](http://www.imdb.com/title/tt0120907/) 									   | Science fiction/Thriller  | 1999 | 6.8/1| |
 | [One Point O](http://www.imdb.com/title/tt0317042/) 								   | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)									   | Mystery/Science fiction   | 2010 | 8.8/10 |
+| [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)						   | Fantasy/Animation		   | 1995 | 8/10   |
 
 ## Action
 

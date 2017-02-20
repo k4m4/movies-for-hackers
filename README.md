@@ -101,3 +101,5 @@ A curated list of movies every hacker & cyberpunk must watch.
     * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
 
 # Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/CONTRIBUTING.md) first.

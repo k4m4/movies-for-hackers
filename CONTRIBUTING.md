@@ -10,6 +10,8 @@
 * Make an individual pull request for each suggestion.
 * The pull request and commit should have a useful title.
 * Insert new suggestion to the bottom of a category.
+* Use IMDb links & ratings.
 
-- You contributions are much appreciated.
-- Thanks for your suggestions!
+
+Your contributions are much appreciated.
+Thank you for your suggestions!

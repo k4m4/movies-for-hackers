@@ -13,5 +13,5 @@
 * Use IMDb links & ratings.
 
 
-- Your contributions are much appreciated.
-- Thanks for your suggestions!
+Your contributions are much appreciated.
+Thanks for your suggestions!

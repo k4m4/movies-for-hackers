@@ -14,4 +14,4 @@
 
 
 Your contributions are much appreciated.
-Thanks for your suggestions!
+Thank you for your suggestions!

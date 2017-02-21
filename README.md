@@ -53,7 +53,8 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
-| [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
+| [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 
+| [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction           | 1982 | 8.2/10 |
 
 ## Action
 

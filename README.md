@@ -49,7 +49,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 |
 | [Ex Machina](http://www.imdb.com/title/tt0470752/)                                         | Fantasy/Mystery           | 2015 | 7.7/10 |
-| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science fiction/Thriller  | 1999 | 6.8/1| |
+| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science fiction/Thriller  | 1999 | 6.8/10 |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
@@ -71,7 +71,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television film/Docudrama | 1999 | 7.3/10  |
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television film/Docudrama | 1999 | 7.3/10 |
 | [Freedom Downtime](http://www.imdb.com/title/tt0309614/)                                   | Documentary               | 2001 | 7.6/10 |
 | [The Code](http://www.imdb.com/title/tt0315417/)                                           | Documentary               | 2001 | 7.5/10 |
 | [Code 2600](http://www.imdb.com/title/tt1830538/)                                          | Documentary               | 2012 | 7.4/10 |

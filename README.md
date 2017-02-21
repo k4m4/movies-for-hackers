@@ -71,7 +71,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television film/Docudrama | 1999 | 7.3/1  |
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television film/Docudrama | 1999 | 7.3/10  |
 | [Freedom Downtime](http://www.imdb.com/title/tt0309614/)                                   | Documentary               | 2001 | 7.6/10 |
 | [The Code](http://www.imdb.com/title/tt0315417/)                                           | Documentary               | 2001 | 7.5/10 |
 | [Code 2600](http://www.imdb.com/title/tt1830538/)                                          | Documentary               | 2012 | 7.4/10 |

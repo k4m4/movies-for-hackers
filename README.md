@@ -56,6 +56,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
+| [Her](http://www.imdb.com/title/tt1798709/)                                       | Science fiction/Romance  | 2013 | 8.0/10 |
 
 ## Action
 

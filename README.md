@@ -19,7 +19,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 |
-| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 | 
+| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 |
 | [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |
 | [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 |
 | [Reboot](http://www.imdb.com/title/tt2090594/)                                             | Thriller/Drama            | 2012 | 4.1/10 |
@@ -99,6 +99,8 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 
 # Other Cool Lists
+
+[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 *Here are some more cool lists.*
 

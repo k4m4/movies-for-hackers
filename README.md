@@ -95,6 +95,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Zero Days](http://www.imdb.com/title/tt5446858/)                                          | Documentary               | 2016 | 7.8/10 |
 | [The Singularity](http://www.imdb.com/title/tt2073120/)                                    | Drama/Science Fiction     | 2012 | 7.3/10 |
 | [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)  | Documentary               | 2014 | 8.1/10 |
+| [Das Netz](http://www.imdb.com/title/tt0434231/)                                           | Documentary               | 2003 | 6.9/10 |
 
 
 # Other Cool Lists

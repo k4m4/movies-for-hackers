@@ -96,6 +96,12 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [The Singularity](http://www.imdb.com/title/tt2073120/)                                    | Drama/Science Fiction     | 2012 | 7.3/10 |
 | [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)  | Documentary               | 2014 | 8.1/10 |
 
+## TV Shows
+
+| TITLE                                                                                      | GENRE                     | YEAR | RATING |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [Mr. Robot](http://www.imdb.com/title/tt4158110/)                                          | Thriller/Drama            | 2015 | 8.7/10 |
+| [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 
 # Other Cool Lists
 

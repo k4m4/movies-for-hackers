@@ -73,6 +73,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Gamer](http://www.imdb.com/title/tt1034032/)                                              | Thriller/Action           | 2009 | 5.8/10 |
 | [Virtuosity](http://www.imdb.com/title/tt0114857/)                                         | Thriller/Action           | 1995 | 5.5/10 |
 | [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
+| [Tron](http://www.imdb.com/title/tt0084827/)                                               | Action/Adventure          | 2010 | 6.8/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 

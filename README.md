@@ -67,6 +67,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Virtuosity](http://www.imdb.com/title/tt0114857/)                                         | Thriller/Action           | 1995 | 5.5/10 |
 | [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
+| [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 
 ## Documentaries
 

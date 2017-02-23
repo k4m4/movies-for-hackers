@@ -71,6 +71,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
+| [Kung Fury](http://www.imdb.com/title/tt3472226/)                                          | Action/Comedy             | 2015 | 8.1/10 |
 
 ## Documentaries
 

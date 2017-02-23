@@ -41,6 +41,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper story/Thriller      | 2001 | 6.5/10 |
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
+| [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 
 ## Science Fiction / Fantasy
 
@@ -57,6 +58,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
 
+  
 ## Action
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |

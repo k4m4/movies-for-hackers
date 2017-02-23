@@ -58,6 +58,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
+| [Jurassic Park](http://www.imdb.com/title/tt0107290/)                                      | Fantasy/Science fiction   | 1993 | 8.1/10 |
 
   
 ## Action

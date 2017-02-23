@@ -19,6 +19,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 |
+| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 | 
 | [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |
 | [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 |
 | [Reboot](http://www.imdb.com/title/tt2090594/)                                             | Thriller/Drama            | 2012 | 4.1/10 |
@@ -95,7 +96,9 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Zero Days](http://www.imdb.com/title/tt5446858/)                                          | Documentary               | 2016 | 7.8/10 |
 | [The Singularity](http://www.imdb.com/title/tt2073120/)                                    | Drama/Science Fiction     | 2012 | 7.3/10 |
 | [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)  | Documentary               | 2014 | 8.1/10 |
+| [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
 | [Das Netz](http://www.imdb.com/title/tt0434231/)                                           | Documentary               | 2003 | 6.9/10 |
+
 
 
 # Other Cool Lists

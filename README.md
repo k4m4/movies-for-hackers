@@ -42,6 +42,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
+| [Anonymous (Hacker)](http://www.imdb.com/title/tt3173594/)                                 | Crime/Drama/Thriller      | 2016 | 6.4/10 |
 
 ## Science Fiction / Fantasy
 

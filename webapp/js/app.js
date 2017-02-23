@@ -38,7 +38,7 @@ objectifyMarkdownNotWomen.table = function(header, body) {
 	movies = [{}];
 };
 
-client.open('GET', '../../README.md');
+client.open('GET', baseUrl() + '/README.md');
 client.onreadystatechange = function(e) {
 	// Whipe movies and collections as this'll run a bunch of times
 	moviesCollection = [];
@@ -56,3 +56,8 @@ client.onreadystatechange = function(e) {
 	});
 };
 client.send();
+
+function baseUrl() {
+	var href = window.location.href.split('/');
+	return href[0]+'//'+href[2]+'/';
+}

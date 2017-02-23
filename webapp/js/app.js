@@ -38,7 +38,7 @@ objectifyMarkdownNotWomen.table = function(header, body) {
 	movies = [{}];
 };
 
-client.open('GET', baseUrl() + '/README.md');
+client.open('GET', window.location.href + '/README.md');
 client.onreadystatechange = function(e) {
 	// Whipe movies and collections as this'll run a bunch of times
 	moviesCollection = [];

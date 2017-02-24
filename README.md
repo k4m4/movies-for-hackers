@@ -113,6 +113,7 @@ A curated list of movies every hacker & cyberpunk must watch.
     * [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
     * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
 * Misc
+    * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
     * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
     * [security list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit.
 

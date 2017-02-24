@@ -62,7 +62,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
-
+| [Colossus: The Forbin Project](http://www.imdb.com/title/tt0064177/)                       | Science fiction/Thriller  | 1970 | 7.2/10 |
   
 ## Action
 

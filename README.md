@@ -6,8 +6,6 @@
 
 Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
--
-
 ## Contents
 
 - [Movies For Hackers](#movies-for-hackers)

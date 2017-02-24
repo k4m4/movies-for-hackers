@@ -59,7 +59,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
 | [Assassin's Creed](http://www.imdb.com/title/tt2094766/)                                    | Science fiction/Thriller  | 2016 | 6.3/10 |
-| [Lucy](http://www.imdb.com/title/tt2872732/)                                    | Science fiction/Thriller  | 2016 | 6.4/10 |
+| [Lucy](http://www.imdb.com/title/tt2872732/)                                    | Science fiction/Thriller  | 2014 | 6.4/10 |
 
   
 ## Action

@@ -13,6 +13,16 @@ var client = new XMLHttpRequest(),
  * React Table Component
  * Using https://github.com/AllenFang/react-bootstrap-table
  */
+const parseNowt = (cell, row) => {
+	return cell;
+}
+const parseTheImdb = (cell, row) => {
+	// Make it like 7.1 rather than 7.1/10, we all know what it's out of.
+	if (cell != null) {
+		return cell.replace('/10', '');
+	}
+}
+
 class Table extends React.Component {
 	// Runs on init
 	constructor(props) {
@@ -25,9 +35,18 @@ class Table extends React.Component {
 
 		// Create table headers (the rest is all handled by the plugin)
 		headers.map((header, i) => {
-			let isFirstItem = (i == 0);
+			let isFirstItem = (i == 0),
+				parseImdb = (header == 'rating')
 			this.columns.push(
-				<TableHeaderColumn key={i} isKey={isFirstItem} dataField={header} dataSort={true}>{header}</TableHeaderColumn>
+				<TableHeaderColumn
+					key={i}
+					isKey={isFirstItem}
+					dataFormat={parseImdb ? parseTheImdb : parseNowt}
+					dataField={header}
+					dataSort={true}
+				>
+					{header}
+				</TableHeaderColumn>
 			);
 		});
 	}
@@ -35,7 +54,10 @@ class Table extends React.Component {
 	// Runs on render
 	render() {
 		return (
-			<BootstrapTable data={this.movies} hover={true}>
+			<BootstrapTable
+				data={this.movies}
+				hover={true}
+			>
 				{this.columns}
 			</BootstrapTable>
 		);
@@ -80,7 +102,8 @@ objectifyMarkdownNotWomen.table = function(header, body) {
 // Ajax the markdown file with all movie data
 client.open('GET', window.location.href + 'README.md');
 client.onreadystatechange = function(e) {
-	// Wipe movies and collections as this'll run a bunch of times
+	// Wipe movies, collections and content as this'll run a bunch of times
+	document.getElementById("root").innerHTML = '';
 	moviesCollection = [];
 	movies = [{}];
 
@@ -95,7 +118,7 @@ client.onreadystatechange = function(e) {
 		if (moviesCollection[0] == null) {
 			return;
 		}
-		//console.log(moviesCollection);
+		console.log(moviesCollection);
 		//document.body.innerHTML = JSON.stringify(moviesCollection);
 
 		// Create JSX for tables of each set of movies in moviesCollection
@@ -103,7 +126,7 @@ client.onreadystatechange = function(e) {
 		moviesCollection.map((movies, i) => {
 			moviesCollectionJSX.push(
 				<div key={i}>
-					<h1>{movies.heading}</h1>
+					<h2>{movies.heading}</h2>
 					<Table movies={movies.movies} />
 				</div>
 			)
@@ -111,6 +134,7 @@ client.onreadystatechange = function(e) {
 
 		ReactDOM.render(
 			<div>
+				<h1>Movies For Hackers</h1>
 				{moviesCollectionJSX}
 			</div>,
 			document.getElementById("root")

@@ -2,7 +2,13 @@
 
 # Movies For Hackers
 
-A curated list of movies every hacker & cyberpunk must watch.
+> A curated list of movies every hacker & cyberpunk must watch.
+
+Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/sindresorhus).
+
+-
+
+## Contents
 
 - [Movies For Hackers](#movies-for-hackers)
     - [Thrillers/Drama](#thrillers--drama)

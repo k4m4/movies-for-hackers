@@ -41,6 +41,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper story/Thriller      | 2001 | 6.5/10 |
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
+| [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 
 ## Science Fiction / Fantasy
 
@@ -56,8 +57,11 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
-| [Her](http://www.imdb.com/title/tt1798709/)                                       | Science fiction/Romance  | 2013 | 8.0/10 |
+| [Her](http://www.imdb.com/title/tt1798709/)                                                | Science fiction/Romance   | 2013 | 8.0/10 |
+| [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
 
+
+  
 ## Action
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
@@ -68,6 +72,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Virtuosity](http://www.imdb.com/title/tt0114857/)                                         | Thriller/Action           | 1995 | 5.5/10 |
 | [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
+| [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 
 ## Documentaries
 

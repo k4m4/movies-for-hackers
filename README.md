@@ -106,7 +106,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)  | Documentary               | 2014 | 8.1/10 |
 | [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
 | [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
-
+| [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
 
 # Other Cool Lists
 

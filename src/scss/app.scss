@@ -1,3 +1,6 @@
+body {
+	font-size: calc(10px + .5vw);
+}
 .container-fluid {
 	max-width: 1440px;
 }
@@ -5,6 +8,7 @@ h2 {
 	font-size: 20px;
 }
 th {
+	position: relative;
 	text-transform: capitalize;
 	background: #eef7fd;
 }
@@ -12,7 +16,22 @@ th {
 	border: 1px solid #ddd;
 	border-radius: 2px;
 	margin: 0;
+	&,
+	& table {
+		// We can't do this because, unbelievably, the <th> elements are in a separate table :(
+		//table-layout: auto;
+	}
+	table {
+		td,
+		th {
+			// Override some bananas styles
+			// Why did they think nowrap was a smart idea? Fuck mobiles, right?
+			white-space: normal;
+			word-break: break-word;
+		}
+	}
 }
+// Realistically, this would bring in bootstrap as a package and use it properly
 .table {
 	// Cells
 	> thead,
@@ -21,8 +40,32 @@ th {
 		> tr {
 			> th,
 			> td {
-				padding: 1px 6px;
+				padding: 1px calc(0px + 1vw);
+			}
+			> th {
+				padding-right: 20px;
 			}
 		}
 	}
+}
+// Quick solution to the forced table-layout: fixed
+th,
+td {
+	&:nth-child(1) {
+		width: 50%;
+	}
+	&:nth-child(2) {
+		width: 22%;
+	}
+	&:nth-child(3) {
+		width: 14%;
+	}
+	&:nth-child(4) {
+		width: 14%;
+	}
+}
+.order {
+	position: absolute;
+	top: 1px;
+	right: 3px;
 }

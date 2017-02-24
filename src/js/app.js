@@ -1,3 +1,6 @@
+/**
+ * Vars
+ */
 var client = new XMLHttpRequest(),
 	objectifyMarkdownNotWomen = new marked.Renderer(),
 	moviesCollection,
@@ -6,7 +9,43 @@ var client = new XMLHttpRequest(),
 	lastHeading = '',
 	headers = ['movie', 'genre', 'year', 'rating'];
 
+/**
+ * React Table Component
+ * Using https://github.com/AllenFang/react-bootstrap-table
+ */
+class Table extends React.Component {
+	// Runs on init
+	constructor(props) {
+		// pass props to the base constructor:
+		super(props);
 
+		this.movies = props.movies;
+
+		this.columns = [];
+
+		// Create table headers (the rest is all handled by the plugin)
+		headers.map((header, i) => {
+			let isFirstItem = (i == 0);
+			this.columns.push(
+				<TableHeaderColumn key={i} isKey={isFirstItem} dataField={header} dataSort={true}>{header}</TableHeaderColumn>
+			);
+		});
+	}
+
+	// Runs on render
+	render() {
+		return (
+			<BootstrapTable data={this.movies} hover={true}>
+				{this.columns}
+			</BootstrapTable>
+		);
+	}
+}
+
+/**
+ * Custom renderer for Marked plugin
+ * Turning the parsed markdown into an array of objects
+ */
 objectifyMarkdownNotWomen.heading = function(heading, level) {
 	lastHeading = heading;
 };
@@ -38,9 +77,10 @@ objectifyMarkdownNotWomen.table = function(header, body) {
 	movies = [{}];
 };
 
+// Ajax the markdown file with all movie data
 client.open('GET', window.location.href + 'README.md');
 client.onreadystatechange = function(e) {
-	// Whipe movies and collections as this'll run a bunch of times
+	// Wipe movies and collections as this'll run a bunch of times
 	moviesCollection = [];
 	movies = [{}];
 
@@ -48,11 +88,33 @@ client.onreadystatechange = function(e) {
 	// Test markdown:
 	marked("## Thrillers / Drama\n\n| MOVIE                                                                                      | GENRE                     | YEAR | RATING |\n|--------------------------------------------------------------------------------------------|---------------------------|------|--------|\n| [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 |\n| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 |\n| [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |\n\n## Science Fiction / Fantasy\n\n| MOVIE                                                                                      | GENRE                     | YEAR | RATING |\n|--------------------------------------------------------------------------------------------|---------------------------|------|--------|\n| [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 |\n| [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |", {
 	*/
+
 	marked(client.responseText, {
 		renderer: objectifyMarkdownNotWomen
 	}, function() {
-		console.log(moviesCollection);
-		document.body.innerHTML = JSON.stringify(moviesCollection);
+		if (moviesCollection[0] == null) {
+			return;
+		}
+		//console.log(moviesCollection);
+		//document.body.innerHTML = JSON.stringify(moviesCollection);
+
+		// Create JSX for tables of each set of movies in moviesCollection
+		var moviesCollectionJSX = [];
+		moviesCollection.map((movies, i) => {
+			moviesCollectionJSX.push(
+				<div key={i}>
+					<h1>{movies.heading}</h1>
+					<Table movies={movies.movies} />
+				</div>
+			)
+		});
+
+		ReactDOM.render(
+			<div>
+				{moviesCollectionJSX}
+			</div>,
+			document.getElementById("root")
+		);
 	});
 };
 client.send();

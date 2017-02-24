@@ -19,6 +19,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 |
+| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 | 
 | [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |
 | [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 |
 | [Reboot](http://www.imdb.com/title/tt2090594/)                                             | Thriller/Drama            | 2012 | 4.1/10 |
@@ -40,6 +41,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper story/Thriller      | 2001 | 6.5/10 |
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
+| [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 
 ## Science Fiction / Fantasy
 
@@ -49,13 +51,15 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 |
 | [Ex Machina](http://www.imdb.com/title/tt0470752/)                                         | Fantasy/Mystery           | 2015 | 7.7/10 |
-| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science fiction/Thriller  | 1999 | 6.8/1| |
+| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science fiction/Thriller  | 1999 | 6.8/10 |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
-| [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 
-| [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction           | 1982 | 8.2/10 |
+| [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
+| [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
+| [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
 
+  
 ## Action
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
@@ -66,12 +70,13 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Virtuosity](http://www.imdb.com/title/tt0114857/)                                         | Thriller/Action           | 1995 | 5.5/10 |
 | [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
+| [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 
 ## Documentaries
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television film/Docudrama | 1999 | 7.3/1  |
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television film/Docudrama | 1999 | 7.3/10 |
 | [Freedom Downtime](http://www.imdb.com/title/tt0309614/)                                   | Documentary               | 2001 | 7.6/10 |
 | [The Code](http://www.imdb.com/title/tt0315417/)                                           | Documentary               | 2001 | 7.5/10 |
 | [Code 2600](http://www.imdb.com/title/tt1830538/)                                          | Documentary               | 2012 | 7.4/10 |
@@ -92,10 +97,11 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [The Hacker Wars](http://www.imdb.com/title/tt4047350/)                                    | Documentary               | 2014 | 6.6/10 |
 | [Hackers Wanted](http://www.imdb.com/title/tt2292707/)                                     | Indie film/Documentary    | 2009 | 6.5/10 |
 | [The Secret History Of Hacking](http://www.imdb.com/title/tt2335921/)                      | Documentary               | 2001 | 7.6/10 |
-| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Docudrama                 | 1999 | 7.3/10 |
 | [Zero Days](http://www.imdb.com/title/tt5446858/)                                          | Documentary               | 2016 | 7.8/10 |
 | [The Singularity](http://www.imdb.com/title/tt2073120/)                                    | Drama/Science Fiction     | 2012 | 7.3/10 |
 | [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)  | Documentary               | 2014 | 8.1/10 |
+| [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
+
 
 
 # Other Cool Lists

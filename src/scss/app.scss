@@ -1,8 +1,11 @@
 body {
 	font-size: calc(10px + .5vw);
+	padding: 0 0 30px;
+	font-family: 'Play', sans-serif;
 }
 .container-fluid {
 	max-width: 1440px;
+	overflow: auto;
 }
 h2 {
 	font-size: 20px;

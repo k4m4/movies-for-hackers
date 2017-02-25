@@ -46,6 +46,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
+| [Wild Duck](http://www.imdb.com/title/tt2232594/)                                          | Thriller/Drama            | 2013 | 6.4/10 |
 
 ## Science Fiction / Fantasy
 

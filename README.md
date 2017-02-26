@@ -2,13 +2,13 @@
 
 # Movies For Hackers 
 
-[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers) 
-![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)
-[![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
-
 > A curated list of movies every hacker & cyberpunk must watch.
 
 Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
+
+[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers) 
+![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)
+[![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
 
 ## Contents
 

@@ -1,6 +1,8 @@
 ![Movies_For_Hackers_Logo](http://nikolaskama.me/content/images/2017/02/movies-for-hackers.png)
 
-# Movies For Hackers [![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers) [![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers) [![Twitter](https://img.shields.io/twitter/url/https/github.com/k4m4/movies-for-hackers.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+# Movies For Hackers 
+
+[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers) [![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
 
 > A curated list of movies every hacker & cyberpunk must watch.
 

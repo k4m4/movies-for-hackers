@@ -4,7 +4,7 @@
 
 A curated list of movies every hacker & cyberpunk must watch.
 
-[View the sortable version](index.html)
+## [View the sortable version](https://entozoon.github.io/movies-for-hackers/)
 
 - [Movies For Hackers](#movies-for-hackers)
     - [Thrillers/Drama](#thrillers--drama)

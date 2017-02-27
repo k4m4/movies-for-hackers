@@ -1,22 +1,46 @@
+// Realistically, this would bring in bootstrap as a package and use it properly but this is a quick project.
+$brand-primary:   #ba4ee4;
+$brand-secondary: #47c101;
+$brand-tertiary:  #15afd9;
+$headings-color:  $brand-primary;
+$link-color:      #df3968;
+$border-color: adjust-color(
+	$brand-tertiary,
+	$lightness: -35%
+);
 body {
 	font-size: calc(10px + .5vw);
 	padding: 0 0 30px;
 	font-family: 'Play', sans-serif;
+	background: black;
+	color: $brand-secondary;
 }
 .container-fluid {
 	max-width: 1440px;
 	overflow: auto;
 }
+h1,
+h2,
+h3 {
+	color: $headings-color;
+}
 h2 {
 	font-size: 20px;
+}
+a {
+	color: $link-color;
+	&:hover {
+		color: white;
+	}
 }
 th {
 	position: relative;
 	text-transform: capitalize;
-	background: #eef7fd;
+	background: $border-color;
+	color: $brand-tertiary;
 }
 .react-bs-table {
-	border: 1px solid #ddd;
+	border: 1px solid $border-color;
 	border-radius: 2px;
 	margin: 0;
 	&,
@@ -34,7 +58,6 @@ th {
 		}
 	}
 }
-// Realistically, this would bring in bootstrap as a package and use it properly
 .table {
 	// Cells
 	> thead,
@@ -43,11 +66,22 @@ th {
 		> tr {
 			> th,
 			> td {
+				border-color: $border-color;
 				padding: 1px calc(0px + 1vw);
 			}
 			> th {
 				padding-right: 20px;
 			}
+		}
+	}
+}
+.table-hover {
+	> tbody {
+		> tr:hover {
+			background: adjust-color(
+				$brand-secondary,
+				$lightness: -35%
+			);
 		}
 	}
 }

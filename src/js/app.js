@@ -134,7 +134,6 @@ client.onreadystatechange = function(e) {
 
 		ReactDOM.render(
 			<div>
-				<h1>Movies For Hackers</h1>
 				{moviesCollectionJSX}
 			</div>,
 			document.getElementById("root")

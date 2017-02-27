@@ -1,8 +1,16 @@
 ![Movies_For_Hackers_Logo](http://nikolaskama.me/content/images/2017/02/movies-for-hackers.png)
 
-# Movies For Hackers
+# Movies For Hackers 
 
-A curated list of movies every hacker & cyberpunk must watch.
+> A curated list of movies every hacker & cyberpunk must watch.
+
+Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
+
+[![Say Thanks](https://img.shields.io/badge/say%20thanks-%3A%29-blue.svg)](https://saythanks.io/to/k4m4)
+[![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)](https://github.com/k4m4)
+[![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
+
+## Contents
 
 [View the sortable version](index.html)
 
@@ -44,6 +52,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
+| [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
 
 ## Science Fiction / Fantasy
 
@@ -59,7 +68,9 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
+| [Her](http://www.imdb.com/title/tt1798709/)                                                | Science fiction/Romance   | 2013 | 8.0/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
+
 
   
 ## Action
@@ -71,6 +82,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Gamer](http://www.imdb.com/title/tt1034032/)                                              | Thriller/Action           | 2009 | 5.8/10 |
 | [Virtuosity](http://www.imdb.com/title/tt0114857/)                                         | Thriller/Action           | 1995 | 5.5/10 |
 | [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
+| [Tron](http://www.imdb.com/title/tt0084827/)                                               | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 
@@ -103,8 +115,8 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [The Singularity](http://www.imdb.com/title/tt2073120/)                                    | Drama/Science Fiction     | 2012 | 7.3/10 |
 | [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)  | Documentary               | 2014 | 8.1/10 |
 | [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
-
-
+| [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
+| [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
 
 # Other Cool Lists
 
@@ -115,6 +127,7 @@ A curated list of movies every hacker & cyberpunk must watch.
     * [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
     * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
 * Misc
+    * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
     * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
     * [security list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit.
 

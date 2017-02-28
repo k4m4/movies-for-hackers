@@ -68,6 +68,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
 | [Her](http://www.imdb.com/title/tt1798709/)                                                | Science fiction/Romance   | 2013 | 8.0/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
+| [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
+
 
 
   

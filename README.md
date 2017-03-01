@@ -69,6 +69,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
 | [Her](http://www.imdb.com/title/tt1798709/)                                                | Science fiction/Romance   | 2013 | 8.0/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
+| [Assassin's Creed](http://www.imdb.com/title/tt2094766/)                                    | Science fiction/Thriller  | 2016 | 6.3/10 |
+| [Lucy](http://www.imdb.com/title/tt2872732/)                                    | Science fiction/Thriller  | 2014 | 6.4/10 |
 
 
   

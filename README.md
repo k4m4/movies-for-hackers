@@ -52,6 +52,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
+[ [The Sting](http://www.imdb.com/title/tt0070735/)                                          | Comedy/Crime/Drama        | 1973 | 8.3/10 |
 
 ## Science Fiction / Fantasy
 

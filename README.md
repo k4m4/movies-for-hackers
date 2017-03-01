@@ -6,8 +6,8 @@
 
 Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
 
-[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers) 
-![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)
+[![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
+[![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)](https://github.com/k4m4)
 [![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
 
 ## Contents
@@ -51,6 +51,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
+| [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
 | [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 |
 
 ## Science Fiction / Fantasy

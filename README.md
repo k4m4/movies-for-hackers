@@ -17,6 +17,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     - [Science Fiction/Fantasy](#science-fiction--fantasy)
     - [Action](#action)
     - [Documentaries](#documentaries)
+- [TV Shows](#tv-shows)
 - [Other Cool Lists](#other-cool-lists)
 - [Contributing](#contributing)
 
@@ -116,6 +117,13 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
 | [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
 | [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
+
+## TV Shows
+
+| TITLE                                                                                     | GENRE                     | YEARS | RATING |
+|-------------------------------------------------------------------------------------------|---------------------------|-------|--------|
+| [Mr.Robot](http://www.imdb.com/title/tt4158110/)                                          | Crime/Drama/Thriller      | 2015- | 8.7/10 |
+
 
 # Other Cool Lists
 

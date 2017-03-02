@@ -118,6 +118,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
 | [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
 
+
 # TV Shows
 
 | TITLE                                                                                      | GENRE                     | YEAR | RATING |
@@ -128,6 +129,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/)                                | Drama                     | 2014 | 8.3/10 |
 | [Dark Net](http://www.imdb.com/title/tt5397520/)                                           | Documentary Series        | 2016 | 7.3/10 |
 | [Black Mirror](http://www.imdb.com/title/tt2085059/)                                       | Drama/ Science Fiction    | 2011 | 8.9/10 |
+| [Person of Interest](http://www.imdb.com/title/tt1839578/)                                 | Action/Crime/Drama        | 2011 | 8.5/10 |
 
 # Other Cool Lists
 

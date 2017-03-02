@@ -123,6 +123,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | TITLE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [Mr. Robot](http://www.imdb.com/title/tt4158110/)                                          | Thriller/Drama            | 2015 | 8.7/10 |
+| [Silicon Valley](http://www.imdb.com/title/tt2575988/)                                     | Comedy                    | 2014 | 8.5/10 |
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 | [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/)                                | Drama                     | 2014 | 8.3/10 |
 

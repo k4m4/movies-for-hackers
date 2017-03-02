@@ -126,6 +126,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Silicon Valley](http://www.imdb.com/title/tt2575988/)                                     | Comedy                    | 2014 | 8.5/10 |
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 | [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/)                                | Drama                     | 2014 | 8.3/10 |
+| [Dark Net](http://www.imdb.com/title/tt5397520/)                                           | Documentary series        | 2016 | 7.3/10 |
 
 # Other Cool Lists
 

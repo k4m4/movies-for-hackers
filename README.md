@@ -17,6 +17,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     - [Science Fiction/Fantasy](#science-fiction--fantasy)
     - [Action](#action)
     - [Documentaries](#documentaries)
+- [TV Shows For Hackers](#tv-shows)
 - [Other Cool Lists](#other-cool-lists)
 - [Contributing](#contributing)
 
@@ -113,15 +114,16 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Zero Days](http://www.imdb.com/title/tt5446858/)                                          | Documentary               | 2016 | 7.8/10 |
 | [The Singularity](http://www.imdb.com/title/tt2073120/)                                    | Drama/Science Fiction     | 2012 | 7.3/10 |
 | [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/)  | Documentary               | 2014 | 8.1/10 |
-## TV Shows
+| [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
+| [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
+| [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
+
+# TV Shows
 
 | TITLE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [Mr. Robot](http://www.imdb.com/title/tt4158110/)                                          | Thriller/Drama            | 2015 | 8.7/10 |
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
-| [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
-| [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
-| [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
 
 # Other Cool Lists
 

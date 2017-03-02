@@ -47,7 +47,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Hacker's Game](http://www.imdb.com/title/tt3140724/)                                      | Drama/Thriller            | 2015 | 3.8/10 |
 | [Blackhat](http://www.imdb.com/title/tt2717822/)                                           | Drama/Thriller            | 2015 | 5.4/10 |
 | [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/)                               | Thriller/Mystery          | 1999 | 7/10   |
-| [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper story/Thriller      | 2001 | 6.5/10 |
+| [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper Story/Thriller      | 2001 | 6.5/10 |
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
@@ -63,15 +63,15 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 |
 | [Ex Machina](http://www.imdb.com/title/tt0470752/)                                         | Fantasy/Mystery           | 2015 | 7.7/10 |
-| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science fiction/Thriller  | 1999 | 6.8/10 |
+| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science Fiction/Thriller  | 1999 | 6.8/10 |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
-| [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
-| [Her](http://www.imdb.com/title/tt1798709/)                                                | Science fiction/Romance   | 2013 | 8.0/10 |
-| [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
-| [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science fiction/Drama     | 2014 | 6.3/10 |
+| [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science Fiction/Thriller  | 1982 | 8.2/10 |
+| [Her](http://www.imdb.com/title/tt1798709/)                                                | Science Fiction/Romance   | 2013 | 8.0/10 |
+| [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 |
+| [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
   
 ## Action
 
@@ -90,11 +90,11 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television film/Docudrama | 1999 | 7.3/10 |
+| [Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/)                          | Television Film/Docudrama | 1999 | 7.3/10 |
 | [Freedom Downtime](http://www.imdb.com/title/tt0309614/)                                   | Documentary               | 2001 | 7.6/10 |
 | [The Code](http://www.imdb.com/title/tt0315417/)                                           | Documentary               | 2001 | 7.5/10 |
 | [Code 2600](http://www.imdb.com/title/tt1830538/)                                          | Documentary               | 2012 | 7.4/10 |
-| [Revolution OS](http://www.imdb.com/title/tt0308808/)                                      | Indie film/Documentary    | 2001 | 7.3/10 |
+| [Revolution OS](http://www.imdb.com/title/tt0308808/)                                      | Indie Film/Documentary    | 2001 | 7.3/10 |
 | [Hackers Are People Too](http://www.imdb.com/title/tt1279942/)                             | Short Film/Documentary    | 2008 | 6.1/10 |
 | [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/)        | Documentary               | 2012 | 7.3/10 |
 | [The KGB, the Computer and Me](http://www.imdb.com/title/tt0308449/)                       | Documentary               | 1990 | 8.3/10 |
@@ -109,7 +109,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [DEFCON: The Documentary](http://www.imdb.com/title/tt3010462/)                            | Documentary               | 2013 | 5.7/10 |
 | [DSKNECTD](http://www.imdb.com/title/tt2417174/)                                           | Documentary               | 2013 | 7.4/10 |
 | [The Hacker Wars](http://www.imdb.com/title/tt4047350/)                                    | Documentary               | 2014 | 6.6/10 |
-| [Hackers Wanted](http://www.imdb.com/title/tt2292707/)                                     | Indie film/Documentary    | 2009 | 6.5/10 |
+| [Hackers Wanted](http://www.imdb.com/title/tt2292707/)                                     | Indie Film/Documentary    | 2009 | 6.5/10 |
 | [The Secret History Of Hacking](http://www.imdb.com/title/tt2335921/)                      | Documentary               | 2001 | 7.6/10 |
 | [Zero Days](http://www.imdb.com/title/tt5446858/)                                          | Documentary               | 2016 | 7.8/10 |
 | [The Singularity](http://www.imdb.com/title/tt2073120/)                                    | Drama/Science Fiction     | 2012 | 7.3/10 |
@@ -126,7 +126,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Silicon Valley](http://www.imdb.com/title/tt2575988/)                                     | Comedy                    | 2014 | 8.5/10 |
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 | [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/)                                | Drama                     | 2014 | 8.3/10 |
-| [Dark Net](http://www.imdb.com/title/tt5397520/)                                           | Documentary series        | 2016 | 7.3/10 |
+| [Dark Net](http://www.imdb.com/title/tt5397520/)                                           | Documentary Series        | 2016 | 7.3/10 |
+| [Black Mirror](http://www.imdb.com/title/tt2085059/)                                       | Drama/ Science Fiction    | 2011 | 8.9/10 |
 
 # Other Cool Lists
 

@@ -9,7 +9,7 @@
 * Check your spelling and grammar.
 * Make an individual pull request for each suggestion.
 * The pull request and commit should have a useful title.
-* Insert new suggestion to the bottom of a category.
+* Insert new suggestions at the bottom of a category.
 * Use IMDb links & ratings.
 
 

@@ -87,6 +87,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 
+## Comedy
+
+| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [The Internship](http://www.imdb.com/title/tt2234155/)                                     | Comedy                    | 2013 | 6.3/10 |
+
 ## Documentaries
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |

@@ -144,6 +144,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
     * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
     * [security list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit.
+    * [Hacksplaining](https://www.hacksplaining.com) - Learn to hack, learn to protect yourself.
 
 # Contributing
 

@@ -54,7 +54,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
-| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 |
+| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
 
 ## Science Fiction / Fantasy
 
@@ -86,6 +86,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron](http://www.imdb.com/title/tt0084827/)                                               | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
+| [Echelon Conspiracy](http://www.imdb.com/title/tt1124039/)                                 | Action/Crime/Mystery      |   2009 | 5.8/10 |
 
 ## Documentaries
 

@@ -132,6 +132,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Dark Net](http://www.imdb.com/title/tt5397520/)                                           | Documentary Series        | 2016 | 7.3/10 |
 | [Black Mirror](http://www.imdb.com/title/tt2085059/)                                       | Drama/ Science Fiction    | 2011 | 8.9/10 |
 | [Person of Interest](http://www.imdb.com/title/tt1839578/)                                 | Action/Crime/Drama        | 2011 | 8.5/10 |
+| [Max Headroom](http://www.imdb.com/title/tt0092402/)                                       | Comedy/ Science Fiction   | 1987 | 7.4/10 |
 
 # Other Cool Lists
 

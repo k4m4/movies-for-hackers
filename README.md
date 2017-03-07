@@ -73,6 +73,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Her](http://www.imdb.com/title/tt1798709/)                                                | Science Fiction/Romance   | 2013 | 8.0/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 |
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
+| [Elysium](http://www.imdb.com/title/tt1535108/)                                      | Science Fiction/Action    | 2013 | 6.6/10 |
   
 ## Action
 

@@ -146,6 +146,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
     * [security list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit.
 
+# Other Languages
+   [Chinese: 每个黑客程序员都应该看的电影！](https://github.com/oceanpad/movies-for-hackers)
+
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/CONTRIBUTING.md) first.

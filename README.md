@@ -132,6 +132,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Dark Net](http://www.imdb.com/title/tt5397520/)                                           | Documentary Series        | 2016 | 7.3/10 |
 | [Black Mirror](http://www.imdb.com/title/tt2085059/)                                       | Drama/ Science Fiction    | 2011 | 8.9/10 |
 | [Person of Interest](http://www.imdb.com/title/tt1839578/)                                 | Action/Crime/Drama        | 2011 | 8.5/10 |
+| [Westworld](http://www.imdb.com/title/tt0475784/)                                          | Drama/Mystery             | 2016 | 9.0/10 |
 
 # Other Cool Lists
 

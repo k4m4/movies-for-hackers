@@ -144,6 +144,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 # Other Cool Lists
 
+[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
 *Here are some more cool lists.*
 
 * Awesome

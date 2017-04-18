@@ -10,8 +10,8 @@
 
 ## Checklist for submitting a pull request to `Movies For Hackers`:
 
-- [ ] I have carefully read and comply with the [Contributing Guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/CONTRIBUTING.md) of this repo.
-- [ ] I have searched the [PRs](https://github.com/k4m4/movies-for-hackers/pulls) of this repo and believe that this is not a duplicate.
+- [ ] I have carefully **read and comply** with the [Contributing Guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/CONTRIBUTING.md) of this repo.
+- [ ] I have **searched** the [PRs](https://github.com/k4m4/movies-for-hackers/pulls) of this repo and believe that this is not a duplicate.
 
 <!-- 
   Once all boxes are ticked, it would be very helpful if you could fill in the

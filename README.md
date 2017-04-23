@@ -129,6 +129,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Indie Game: The Movie](http://www.imdb.com/title/tt1942884/)                              | Documentary               | 2012 | 7.7/10 |
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
+| [Indie Game: The Movie](http://www.imdb.com/title/tt1942884/)                              | Documentary               | 2012 | 7.7/10 |
+
 
 
 # TV Shows

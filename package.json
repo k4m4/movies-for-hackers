@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel-preset-react": "^6.23.0",
+    "lapis-compiler": "^1.5.7"
+  }
+}

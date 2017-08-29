@@ -1,0 +1,22 @@
+{
+	"css": [
+		{
+			"watch": [
+				"src/scss/**/*.scss"
+			],
+			"src": "src/scss/app.scss",
+			"dest": "./dist/css",
+			"filename": "app.css"
+		}
+	],
+	"js": [
+		{
+			"watch": [
+				"src/js/**/*.js"
+			],
+			"src": "src/js/app.js",
+			"dest": "dist/js",
+			"filename": "app.js"
+		}
+	]
+}

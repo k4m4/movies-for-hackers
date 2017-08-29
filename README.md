@@ -13,6 +13,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Contents
 
+## [View the sortable version](https://k4m4.github.io/movies-for-hackers/)
+
 - [Movies For Hackers](#movies-for-hackers)
     - [Thrillers/Drama](#thrillers--drama)
     - [Science Fiction/Fantasy](#science-fiction--fantasy)

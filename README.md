@@ -1,6 +1,6 @@
 ![Movies_For_Hackers_Logo](http://nikolaskama.me/content/images/2017/02/movies-for-hackers.png)
 
-# Movies For Hackers 
+# Movies For Hackers
 
 > A curated list of movies every hacker & cyberpunk must watch.
 
@@ -12,7 +12,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Contents
 
-## [View the sortable version](https://entozoon.github.io/movies-for-hackers/)
+## [View the sortable version](https://k4m4.github.io/movies-for-hackers/)
 
 - [Movies For Hackers](#movies-for-hackers)
     - [Thrillers/Drama](#thrillers--drama)
@@ -72,7 +72,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science fiction/Thriller  | 1973 | 7.9/10 |
 
 
-  
+
 ## Action
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |

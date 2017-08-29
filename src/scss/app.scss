@@ -1,108 +1,100 @@
-// Realistically, this would bring in bootstrap as a package and use it properly but this is a quick project.
-$brand-primary:   #ba4ee4;
+$brand-primary: #ba4ee4;
 $brand-secondary: #47c101;
-$brand-tertiary:  #15afd9;
-$headings-color:  $brand-primary;
-$link-color:      #df3968;
-$border-color: adjust-color(
-	$brand-tertiary,
-	$lightness: -35%
-);
+$brand-tertiary: #15afd9;
+$headings-color: $brand-primary;
+$link-color: #df3968;
+$border-color: adjust-color($brand-tertiary, $lightness: -35%);
 body {
-	font-size: calc(10px + .5vw);
-	padding: 0 0 30px;
-	font-family: 'Play', sans-serif;
-	background: black;
-	color: $brand-secondary;
+  font-size: calc(10px + .5vw);
+  padding: 0 0 30px;
+  font-family: 'Play', sans-serif;
+  background: black;
+  color: $brand-secondary;
 }
 .container-fluid {
-	max-width: 1440px;
-	overflow: auto;
+  max-width: 1440px;
+  overflow: auto;
 }
 h1,
 h2,
 h3 {
-	color: $headings-color;
+  color: $headings-color;
 }
 h2 {
-	font-size: 20px;
+  font-size: 20px;
 }
 a {
-	color: $link-color;
-	&:hover {
-		color: white;
-	}
+  color: $link-color;
+  &:hover {
+    color: white;
+  }
 }
 th {
-	position: relative;
-	text-transform: capitalize;
-	background: $border-color;
-	color: $brand-tertiary;
+  position: relative;
+  text-transform: capitalize;
+  background: $border-color;
+  color: $brand-tertiary;
 }
 .react-bs-table {
-	border: 1px solid $border-color;
-	border-radius: 2px;
-	margin: 0;
-	&,
-	& table {
-		// We can't do this because, unbelievably, the <th> elements are in a separate table :(
-		//table-layout: auto;
-	}
-	table {
-		td,
-		th {
-			// Override some bananas styles
-			// Why did they think nowrap was a smart idea? Fuck mobiles, right?
-			white-space: normal;
-			word-break: break-word;
-		}
-	}
+  border: 1px solid $border-color;
+  border-radius: 2px;
+  margin: 0;
+  &,
+  & table {
+    // We can't do this because, unbelievably, the <th> elements are in a separate table :( // table-layout: auto;
+  }
+  table {
+    td,
+    th {
+      // Override some bananas styles
+      // Why did they think nowrap was a smart idea? Fuck mobiles, right?
+      white-space: normal;
+      word-break: break-word;
+    }
+  }
 }
 .table {
-	// Cells
-	> thead,
-	> tbody,
-	> tfoot {
-		> tr {
-			> th,
-			> td {
-				border-color: $border-color;
-				padding: 1px calc(0px + 1vw);
-			}
-			> th {
-				padding-right: 20px;
-			}
-		}
-	}
+  // Cells
+  > thead,
+  > tbody,
+  > tfoot {
+    > tr {
+      > th,
+      > td {
+        border-color: $border-color;
+        padding: 1px calc(0px + 1vw);
+      }
+      > th {
+        padding-right: 20px;
+      }
+    }
+  }
 }
 .table-hover {
-	> tbody {
-		> tr:hover {
-			background: adjust-color(
-				$brand-secondary,
-				$lightness: -35%
-			);
-		}
-	}
+  > tbody {
+    > tr:hover {
+      background: adjust-color($brand-secondary, $lightness: -35%);
+    }
+  }
 }
 // Quick solution to the forced table-layout: fixed
 th,
 td {
-	&:nth-child(1) {
-		width: 50%;
-	}
-	&:nth-child(2) {
-		width: 22%;
-	}
-	&:nth-child(3) {
-		width: 14%;
-	}
-	&:nth-child(4) {
-		width: 14%;
-	}
+  &:nth-child(1) {
+    width: 50%;
+  }
+  &:nth-child(2) {
+    width: 22%;
+  }
+  &:nth-child(3) {
+    width: 14%;
+  }
+  &:nth-child(4) {
+    width: 14%;
+  }
 }
 .order {
-	position: absolute;
-	top: 1px;
-	right: 3px;
+  position: absolute;
+  top: 1px;
+  right: 3px;
 }

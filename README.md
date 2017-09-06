@@ -98,6 +98,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Echelon Conspiracy](http://www.imdb.com/title/tt1124039/)                                 | Action/Crime/Mystery      | 2009 | 5.8/10 |
 | [Kung Fury](http://www.imdb.com/title/tt3472226/)                                          | Action/Comedy             | 2015 | 8.1/10 |
 
+## Comedy
+
+| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [The Internship](http://www.imdb.com/title/tt2234155/)                                     | Comedy                    | 2013 | 6.3/10 |
+
 ## Documentaries
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
@@ -129,6 +135,13 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
 | [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
 | [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
+| [The Startup Kids](http://www.imdb.com/title/tt2279353/)                                   | Documentary               | 2012 | 6.8/10 |
+| [Something Ventured](http://www.imdb.com/title/tt1737747/)                                 | Documentary               | 2011 | 7.0/10 |
+| [Ctrl+Alt+Compete](http://www.imdb.com/title/tt2061626/)                                   | Documentary               | 2011 | 5.8/10 |
+| [Indie Game: The Movie](http://www.imdb.com/title/tt1942884/)                              | Documentary               | 2012 | 7.7/10 |
+| [Indie Game: Life After](http://www.imdb.com/title/tt5998218/)                             | Documentary               | 2016 | 5.7/10 |
+| [Game Loading: Rise of the Indies](http://www.imdb.com/title/tt4417906/)                   | Documentary               | 2015 | 5.2/10 |
+| [Video Games: The Movie](http://www.imdb.com/title/tt3214002/)                             | Documentary               | 2014 | 6.1/10 |
 | [Indie Game: The Movie](http://www.imdb.com/title/tt1942884/)                              | Documentary               | 2012 | 7.7/10 |
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |

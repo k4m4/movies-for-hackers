@@ -147,7 +147,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Black Mirror](http://www.imdb.com/title/tt2085059/)                                       | Drama/ Science Fiction    | 2011 | 8.9/10 |
 | [Person of Interest](http://www.imdb.com/title/tt1839578/)                                 | Action/Crime/Drama        | 2011 | 8.5/10 |
 | [Westworld](http://www.imdb.com/title/tt0475784/)                                          | Drama/Mystery             | 2016 | 9.0/10 |
-| [You Are Wanted](http://www.imdb.com/title/tt5462886/)                                     | Drama/Thriller            | 2017 | N/A    |
+| [You Are Wanted](http://www.imdb.com/title/tt5462886/)                                     | Drama/Thriller            | 2017 | 6.1/10 |
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
 

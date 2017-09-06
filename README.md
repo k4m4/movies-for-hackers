@@ -133,6 +133,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
 | [Softwaring Hard](http://www.imdb.com/title/tt3063636/)                                    | Documentary               | 2014 | 8.2/10 |
+| [Silicon Cowboys](http://www.imdb.com/title/tt4938484/)                          | Television Film/Documentary | 2016 | 6.7/10 |
 
 
 # TV Shows

@@ -50,7 +50,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Who Am I](http://www.imdb.com/title/tt3042408/)                                           | Crime/Drama               | 2014 | 7.6/10 |
 | [Hacker's Game](http://www.imdb.com/title/tt3140724/)                                      | Drama/Thriller            | 2015 | 3.8/10 |
 | [Blackhat](http://www.imdb.com/title/tt2717822/)                                           | Drama/Thriller            | 2015 | 5.4/10 |
-| [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/)                               | Thriller/Mystery          | 1999 | 7/10   |
+| [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/)                               | Thriller/Mystery          | 1999 | 7.0/10 |
 | [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper Story/Thriller      | 2001 | 6.5/10 |
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |

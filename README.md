@@ -97,6 +97,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 | [Echelon Conspiracy](http://www.imdb.com/title/tt1124039/)                                 | Action/Crime/Mystery      | 2009 | 5.8/10 |
 | [Kung Fury](http://www.imdb.com/title/tt3472226/)                                          | Action/Comedy             | 2015 | 8.1/10 |
+| [Bait](http://www.imdb.com/title/tt0211938/)                                          	 | Action/Comedy/Crime	     | 2000 | 5.7/10 |
 
 ## Documentaries
 

@@ -6,7 +6,7 @@
 
 Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
 
-[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers)
+<!--[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers)-->
 [![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://yourdonation.rocks)
 [![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
 [![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)

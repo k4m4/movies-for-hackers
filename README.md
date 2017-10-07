@@ -166,4 +166,4 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/contributing.md) first.
+Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.

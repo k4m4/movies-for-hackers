@@ -133,6 +133,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
 | [Softwaring Hard](http://www.imdb.com/title/tt3063636/)                                    | Documentary               | 2014 | 8.2/10 |
+| [Silk Road: Drugs, Death and the Dark Web](http://www.imdb.com/title/tt7301126/)                                    | Documentary               | 2017 | 7.4/10 |
 
 
 # TV Shows

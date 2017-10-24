@@ -59,6 +59,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
 | [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
+| [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 | 
 | [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
 
 ## Science Fiction / Fantasy
@@ -78,6 +79,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Her](http://www.imdb.com/title/tt1798709/)                                                | Science Fiction/Romance   | 2013 | 8.0/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 |
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
+| [Summer Wars](http://www.imdb.com/title/tt1474276/)                                        | Fantasy/Animation         | 2010 | 7.6/10 |
 | [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt1219827/)                                 | Science fiction/Action    | 2017 | 6.9/10 |
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |

@@ -151,6 +151,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [You Are Wanted](http://www.imdb.com/title/tt5462886/)                                     | Drama/Thriller            | 2017 | 6.1/10 |
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
+| [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
 
 # Other Cool Lists
 

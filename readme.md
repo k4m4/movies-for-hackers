@@ -60,6 +60,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
 | [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
 | [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
+| [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 |
 
 ## Science Fiction / Fantasy
 

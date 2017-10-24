@@ -84,6 +84,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Ghost in the Shell](http://www.imdb.com/title/tt1219827/)                                 | Science fiction/Action    | 2017 | 6.9/10 |
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
 
+
 ## Action
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |

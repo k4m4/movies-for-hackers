@@ -6,9 +6,9 @@
 
 Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
 
-[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers)
+<!--[![Build Status](https://travis-ci.org/k4m4/movies-for-hackers.svg?branch=master)](https://travis-ci.org/k4m4/movies-for-hackers)-->
+[![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://yourdonation.rocks)
 [![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
-[![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)](https://github.com/k4m4)
 [![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
 
 ## Contents
@@ -61,6 +61,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
 | [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
 | [Office Space](http://www.imdb.com/title/tt0151804/)                                       | Romance/Comedy            | 1999 | 7.8/10 |
+| [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 |
 
 ## Science Fiction / Fantasy
 
@@ -134,6 +135,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
 | [Softwaring Hard](http://www.imdb.com/title/tt3063636/)                                    | Documentary               | 2014 | 8.2/10 |
+| [Silk Road: Drugs, Death and the Dark Web](http://www.imdb.com/title/tt7301126/)                                    | Documentary               | 2017 | 7.4/10 |
 
 
 # TV Shows
@@ -151,6 +153,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [You Are Wanted](http://www.imdb.com/title/tt5462886/)                                     | Drama/Thriller            | 2017 | 6.1/10 |
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
+| [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
 
 # Other Cool Lists
 
@@ -167,4 +170,4 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/k4m4/movies-for-hackers/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.

@@ -1,21 +1,15 @@
+#/bin/sh
+
 version=0.1
 
-#Colors
-white="\033[1;37m"
-grey="\033[0;37m"
+# Colors
 purple="\033[0;35m"
 red="\033[1;31m"
 green="\033[1;32m"
-yellow="\033[1;33m"
-Purple="\033[0;35m"
-Cyan="\033[0;36m"
-Cafe="\033[0;33m"
-Fiuscha="\033[0;35m"
 blue="\033[1;34m"
-transparent="\e[0m"
 
 clear; echo ""
-	sleep 0.01 && echo "$purple "
+sleep 0.01 && echo "$purple "
 sleep 0.2 && echo "   			███╗   ███╗ ██████╗ ██╗   ██╗██╗███████╗███████╗ "
 sleep 0.2 && echo "   			████╗ ████║██╔═══██╗██║   ██║██║██╔════╝██╔════╝ "
 sleep 0.2 && echo "   			██╔████╔██║██║   ██║██║   ██║██║█████╗  ███████╗ "

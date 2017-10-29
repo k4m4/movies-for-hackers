@@ -99,6 +99,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
 | [Echelon Conspiracy](http://www.imdb.com/title/tt1124039/)                                 | Action/Crime/Mystery      | 2009 | 5.8/10 |
 | [Kung Fury](http://www.imdb.com/title/tt3472226/)                                          | Action/Comedy             | 2015 | 8.1/10 |
+| [Chappie](http://www.imdb.com/title/tt1823672/)                                          | Action/Drama             | 2015 | 6.9/10 |
 
 ## Documentaries
 

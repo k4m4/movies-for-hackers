@@ -60,6 +60,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
 | [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
 | [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
+| [Office Space](http://www.imdb.com/title/tt0151804/)                                       | Romance/Comedy            | 1999 | 7.8/10 |
+| [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 |
 
 ## Science Fiction / Fantasy
 
@@ -133,6 +135,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
 | [Softwaring Hard](http://www.imdb.com/title/tt3063636/)                                    | Documentary               | 2014 | 8.2/10 |
+| [Silk Road: Drugs, Death and the Dark Web](http://www.imdb.com/title/tt7301126/)                                    | Documentary               | 2017 | 7.4/10 |
 
 
 # TV Shows
@@ -150,7 +153,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [You Are Wanted](http://www.imdb.com/title/tt5462886/)                                     | Drama/Thriller            | 2017 | 6.1/10 |
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
-| [Travelers](http://www.imdb.com/title/tt5651844/)                                          | Science Fiction           | 2016 | 8.0/10 
+| [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
+| [Travelers](http://www.imdb.com/title/tt5651844/)                                          | Science Fiction           | 2016 | 8.0/10 |
 
 # Other Cool Lists
 

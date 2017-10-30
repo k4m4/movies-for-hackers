@@ -74,7 +74,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science Fiction/Thriller  | 1999 | 6.8/10 |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 |
-| [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8.0/10   |
+| [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8.0/10 |
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science Fiction/Thriller  | 1982 | 8.2/10 |
 | [Her](http://www.imdb.com/title/tt1798709/)                                                | Science Fiction/Romance   | 2013 | 8.0/10 |
@@ -135,7 +135,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
 | [Softwaring Hard](http://www.imdb.com/title/tt3063636/)                                    | Documentary               | 2014 | 8.2/10 |
-| [Silk Road: Drugs, Death and the Dark Web](http://www.imdb.com/title/tt7301126/)                                    | Documentary               | 2017 | 7.4/10 |
+| [Silk Road: Drugs, Death and the Dark Web](http://www.imdb.com/title/tt7301126/)           | Documentary               | 2017 | 7.4/10 |
 
 
 # TV Shows
@@ -154,6 +154,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
 | [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
+| [Stranger Things](http://www.imdb.com/title/tt4574334/)                                    | Drama/Fantasy/Horror      | 2016 | 8.9/10 |
 
 # Other Cool Lists
 

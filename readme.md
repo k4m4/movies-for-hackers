@@ -83,6 +83,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt1219827/)                                 | Science fiction/Action    | 2017 | 6.9/10 |
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
+| [Until the End of the World](http://www.imdb.com/title/tt0101458/)                         | Action, Drama, Sci-Fi  |1991 | 6.8/10 |
 
 
 ## Action

@@ -62,7 +62,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
 | [Office Space](http://www.imdb.com/title/tt0151804/)                                       | Romance/Comedy            | 1999 | 7.8/10 |
 | [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 |
-| [Electric Dreams](http://www.imdb.com/title/tt0087197/)                                    | Comedy/Drama/Music      | 1984 | 6.5/10 |
+| [Electric Dreams](http://www.imdb.com/title/tt0087197/)                                    | Comedy/Drama/Music        | 1984 | 6.5/10 |
+| [Death Note - Desu nôto: Light Up the New World](http://www.imdb.com/title/tt5058340/)     |  Crime/Drama/Horror       | 2016 | 5.9/10 |
 
 ## Science Fiction / Fantasy
 
@@ -155,7 +156,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
 | [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
-| [The Lone Gunmen  (http://www.imdb.com/title/tt0243069/)                                   | Comedy/Drama/Mystery      | 2001 | 7.5/10 |
+| [The Lone Gunmen](http://www.imdb.com/title/tt0243069/)                                    | Comedy/Drama/Mystery      | 2001 | 7.5/10 |
 
 
 # Other Cool Lists

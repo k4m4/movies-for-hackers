@@ -136,6 +136,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
 | [Softwaring Hard](http://www.imdb.com/title/tt3063636/)                                    | Documentary               | 2014 | 8.2/10 |
 | [Silk Road: Drugs, Death and the Dark Web](http://www.imdb.com/title/tt7301126/)                                    | Documentary               | 2017 | 7.4/10 |
+| [Nothing to Hide](http://www.imdb.com/title/tt7330532/)                                    | Documentary               | 2016 | 7.0/10 |
 
 
 # TV Shows

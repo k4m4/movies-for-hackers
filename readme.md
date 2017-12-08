@@ -154,6 +154,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
 | [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
+| [The Punisher](http://www.imdb.com/title/tt5675620/)                                       | Action, Adventure, Crime  | 2017 | 9.0/10 |
 
 # Other Cool Lists
 

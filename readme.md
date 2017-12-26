@@ -62,6 +62,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
 | [Office Space](http://www.imdb.com/title/tt0151804/)                                       | Romance/Comedy            | 1999 | 7.8/10 |
 | [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 |
+| [The Circle](http://www.imdb.com/title/tt4287320/)                                         | Drama/Thriller            | 2017 | 5.3/10 |
 
 ## Science Fiction / Fantasy
 

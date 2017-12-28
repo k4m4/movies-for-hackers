@@ -1,7 +1,5 @@
 #/bin/sh
 
-version=0.1
-
 case $SHELL in
 	*bash)
 		ECHO='echo -e'
@@ -11,7 +9,6 @@ case $SHELL in
 		;;
 esac
 
-# Colors
 purple="\033[0;35m"
 red="\033[1;31m"
 green="\033[1;32m"

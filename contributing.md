@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+## Please ensure your pull request adheres to the following guidelines:
 
 * Make sure your submission is not a duplicate.
 * Follow the appropriate format.
@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Insert new suggestions at the bottom of a category.
 * Use IMDb links & ratings.
 
-Once a PR is submitted, it will need to be "endorsed" meaning other users react positively or comment on your PR.
+Once a PR is submitted, it will need to be "endorsed". This entails that your Pull Req. will be merged once more people show interest in your suggestion (i.e. react positively, comment on your pull-req etc).
 
 You can vote on Pull Requests with the [endorsement-needed](https://github.com/k4m4/movies-for-hackers/labels/endorsement-needed) tag.
 

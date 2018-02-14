@@ -80,7 +80,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 |
-| [Serial Experiments Lain](http://www.imdb.com/title/tt0500092/)                            | Cyberpunk/Animation         | 1998 | 8.2/10 |
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
 | [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 |
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
@@ -151,6 +150,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Mr. Robot](http://www.imdb.com/title/tt4158110/)                                          | Thriller/Drama            | 2015 | 8.7/10 |
 | [Person of Interest](http://www.imdb.com/title/tt1839578/)                                 | Action/Crime/Drama        | 2011 | 8.5/10 |
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
+| [Serial Experiments Lain](http://www.imdb.com/title/tt0500092/)                            | Cyberpunk/Animation         | 1998 | 8.2/10 |
 | [Silicon Valley](http://www.imdb.com/title/tt2575988/)                                     | Comedy                    | 2014 | 8.5/10 |
 | [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |

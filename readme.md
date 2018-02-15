@@ -62,6 +62,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 |
 | [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 |
 | [Who Am I](http://www.imdb.com/title/tt3042408/)                                           | Crime/Drama               | 2014 | 7.6/10 |
+| [The Circle](http://www.imdb.com/title/tt4287320/)                                         | Drama/Thriller            | 2017 | 5.3/10 |
 
 ## Science Fiction / Fantasy
 

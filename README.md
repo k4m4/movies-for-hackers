@@ -10,18 +10,18 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 [![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
 [![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
 
-## Contents
+## Table of Contents
 
 ## [View the sortable version](https://k4m4.github.io/movies-for-hackers/)
 
-- [Movies For Hackers](#movies-for-hackers)
+1. [Movies For Hackers](#movies-for-hackers)
     - [Thrillers/Drama](#thrillers--drama)
     - [Science Fiction/Fantasy](#science-fiction--fantasy)
     - [Action](#action)
     - [Documentaries](#documentaries)
-- [TV Shows For Hackers](#tv-shows)
-- [Other Cool Lists](#other-cool-lists)
-- [Contributing](#contributing)
+1. [TV Shows For Hackers](#tv-shows)
+1. [Other Cool Lists](#other-cool-lists)
+1. [Contributing](#contributing)
 
 - - -
 
@@ -84,7 +84,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 |
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 |
-
 
 ## Action
 

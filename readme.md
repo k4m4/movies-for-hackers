@@ -156,9 +156,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 | [Westworld](http://www.imdb.com/title/tt0475784/)                                          | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](http://www.imdb.com/title/tt5462886/)                                     | Drama/Thriller            | 2017 | 6.1/10 |
-| [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
-| [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
-| [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
 | [Travelers](http://www.imdb.com/title/tt5651844/)                                          | Science Fiction           | 2016 | 8.0/10 |
 
 # Other Cool Lists

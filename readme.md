@@ -157,6 +157,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 | [Westworld](http://www.imdb.com/title/tt0475784/)                                          | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](http://www.imdb.com/title/tt5462886/)                                     | Drama/Thriller            | 2017 | 6.1/10 |
+| [Travelers](http://www.imdb.com/title/tt5651844/)                                          | Science Fiction           | 2016 | 8.0/10 |
 
 # Other Cool Lists
 

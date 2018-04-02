@@ -116,6 +116,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Freedom Downtime](http://www.imdb.com/title/tt0309614/)                                   | Documentary               | 2001 | 7.6/10 |
 | [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
 | [Hackers Are People Too](http://www.imdb.com/title/tt1279942/)                             | Short Film/Documentary    | 2008 | 6.1/10 |
+| [Hackers in Wonderland](http://www.imdb.com/title/tt5341822/)                              | Documentary               | 2000 | -/10 |
 | [Hacking Democracy](http://www.imdb.com/title/tt0808532/)                                  | Documentary               | 2006 | 7.9/10 |
 | [Hackers Wanted](http://www.imdb.com/title/tt2292707/)                                     | Indie Film/Documentary    | 2009 | 6.5/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |

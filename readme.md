@@ -29,6 +29,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+|‌ [21](http://www.imdb.com/title/tt0478087/)                                                 | Crime/Drama/Thriller      | 2008 |‌ 6.8/10 |
 | [23](http://www.imdb.com/title/tt0126765/)                                                 | Thriller/Drama            | 1998 | 7.3/10 |
 | [Algorithm](http://www.imdb.com/title/tt3293462/)                                          | Crime/Drama/Thriller      | 2014 | 4.8/10 |
 | [Anonymous](http://www.imdb.com/title/tt3173594/)                                          | Crime/Drama/Thriller      | 2016 | 6.4/10 |

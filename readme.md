@@ -97,6 +97,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Echelon Conspiracy](http://www.imdb.com/title/tt1124039/)                                 | Action/Crime/Mystery      | 2009 | 5.8/10 |
 | [Firewall](http://www.imdb.com/title/tt0408345/)                                           | Thriller/Action           | 2006 | 5.8/10 |
 | [Gamer](http://www.imdb.com/title/tt1034032/)                                              | Thriller/Action           | 2009 | 5.8/10 |
+| [I, Robot](https://www.imdb.com/title/tt0343818/)                                          | Action/Crime              | 2004 | 7.1/10 |
 | [Kung Fury](http://www.imdb.com/title/tt3472226/)                                          | Action/Comedy             | 2015 | 8.1/10 |
 | [Sneakers](http://www.imdb.com/title/tt0105435/)                                           | Thriller/Action           | 1992 | 7.1/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |

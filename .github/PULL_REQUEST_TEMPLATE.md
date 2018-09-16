@@ -18,7 +18,7 @@
   following list with the appropriate information. 
 --> 
 
-- **Title**: <!-- Replace with movie's title -->
+- **Title**: <!-- Replace with moabcvie's title -->
 - **Link**: <!-- Replace with IMDb link -->
 - **Genre**: <!-- Replace with genre -->
 - **Rating**: <!-- Replace with IMDb rating -->

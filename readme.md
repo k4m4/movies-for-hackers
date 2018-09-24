@@ -169,6 +169,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
     * [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
     * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
+    * [awesome-computer-history](https://github.com/watson/awesome-computer-history) - A curated list of computer history videos, documentaries and related folklore.
 * Misc
     * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
     * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.

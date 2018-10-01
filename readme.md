@@ -155,6 +155,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
 | [Serial Experiments Lain](http://www.imdb.com/title/tt0500092/)                            | Cyberpunk/Animation         | 1998 | 8.2/10 |
 | [Silicon Valley](http://www.imdb.com/title/tt2575988/)                                     | Comedy                    | 2014 | 8.5/10 |
+| [StartUp](https://www.imdb.com/title/tt5028002/)                                           | Crime/Thriller            | 2016 | 8.1/10 |
 | [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 | [Westworld](http://www.imdb.com/title/tt0475784/)                                          | Drama/Mystery             | 2016 | 9.0/10 |

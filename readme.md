@@ -14,14 +14,16 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## [View the sortable version](https://k4m4.github.io/movies-for-hackers/)
 
-1. [Movies For Hackers](#movies-for-hackers)
-    - [Thrillers/Drama](#thrillers--drama)
-    - [Science Fiction/Fantasy](#science-fiction--fantasy)
-    - [Action](#action)
-    - [Documentaries](#documentaries)
-1. [TV Shows For Hackers](#tv-shows)
-1. [Other Cool Lists](#other-cool-lists)
-1. [Contributing](#contributing)
+- [Movies For Hackers ![Awesome](https://github.com/sindresorhus/awesome)](#movies-for-hackers-awesome)
+  - [Table of Contents](#table-of-contents)
+  - [View the sortable version](#view-the-sortable-version)
+  - [Thrillers / Drama](#thrillers--drama)
+  - [Science Fiction / Fantasy](#science-fiction--fantasy)
+  - [Action](#action)
+  - [Documentaries](#documentaries)
+- [TV Shows](#tv-shows)
+- [Other Cool Lists](#other-cool-lists)
+- [Contributing](#contributing)
 
 - - -
 
@@ -103,6 +105,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron](http://www.imdb.com/title/tt0084827/)                                               | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [Virtuosity](http://www.imdb.com/title/tt0114857/)                                         | Thriller/Action           | 1995 | 5.5/10 |
+| [The Island](https://www.imdb.com/title/tt0399201/)                                        | Action/Adventure          | 2005 | 6.9/10 |
 
 ## Documentaries
 

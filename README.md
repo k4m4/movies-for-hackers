@@ -87,7 +87,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10
 | [The Island](https://www.imdb.com/title/tt0399201/)                                        | Action/Adventure          | 2005 | 6.9/10
-|
 
 ## Documentaries
 

@@ -39,7 +39,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Hacker's Game](http://www.imdb.com/title/tt3140724/)                                      | Drama/Thriller            | 2015 | 3.8/10 |
 | [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |
 | [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
-| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
+| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 |
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Office Space](http://www.imdb.com/title/tt0151804/)                                       | Romance/Comedy            | 1999 | 7.8/10 |
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
@@ -140,6 +140,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [We Are Legion: The Story of the Hacktivists](http://www.imdb.com/title/tt2177843/)        | Documentary               | 2012 | 7.3/10 |
 | [We Steal Secrets: The Story of WikiLeaks](http://www.imdb.com/title/tt1824254/)           | Documentary               | 2013 | 6.9/10 |
 | [Zero Days](http://www.imdb.com/title/tt5446858/)                                          | Documentary               | 2016 | 7.8/10 |
+| [Print The Legend](https://www.imdb.com/title/tt3557464/)                                  | Documentary               | 2014 | 7.1/10 |
 
 
 # TV Shows

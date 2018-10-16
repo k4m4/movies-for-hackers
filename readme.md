@@ -14,16 +14,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## [View the sortable version](https://k4m4.github.io/movies-for-hackers/)
 
-- [Movies For Hackers ![Awesome](https://github.com/sindresorhus/awesome)](#movies-for-hackers-awesome)
-  - [Table of Contents](#table-of-contents)
-  - [View the sortable version](#view-the-sortable-version)
-  - [Thrillers / Drama](#thrillers--drama)
-  - [Science Fiction / Fantasy](#science-fiction--fantasy)
-  - [Action](#action)
-  - [Documentaries](#documentaries)
-- [TV Shows](#tv-shows)
-- [Other Cool Lists](#other-cool-lists)
-- [Contributing](#contributing)
+1. [Movies For Hackers](#movies-for-hackers)
+    - [Thrillers/Drama](#thrillers--drama)
+    - [Science Fiction/Fantasy](#science-fiction--fantasy)
+    - [Action](#action)
+    - [Documentaries](#documentaries)
+1. [TV Shows For Hackers](#tv-shows)
+1. [Other Cool Lists](#other-cool-lists)
+1. [Contributing](#contributing)
 
 - - -
 

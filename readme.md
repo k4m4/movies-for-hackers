@@ -103,6 +103,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron](http://www.imdb.com/title/tt0084827/)                                               | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [Virtuosity](http://www.imdb.com/title/tt0114857/)                                         | Thriller/Action           | 1995 | 5.5/10 |
+| [The Island](https://www.imdb.com/title/tt0399201/)                                        | Action/Adventure          | 2005 | 6.9/10 |
 
 ## Documentaries
 

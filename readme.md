@@ -109,6 +109,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [AlphaGo](http://www.imdb.com/title/tt6700846/)                                            | Documentary               | 2017 | 7.9/10 |
 | [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
 | [Citizenfour](http://www.imdb.com/title/tt4044364/)                                        | Biography/Documentary     | 2014 | 8.1/10 |
 | [Code 2600](http://www.imdb.com/title/tt1830538/)                                          | Documentary               | 2012 | 7.4/10 |

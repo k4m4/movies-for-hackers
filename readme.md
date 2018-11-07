@@ -1,4 +1,4 @@
-[![Movies_For_Hackers_Logo](http://nikolaskama.me/content/images/2017/02/movies-for-hackers.png)](https://github.com/k4m4/movies-for-hackers)
+[![Movies_For_Hackers_Logo](http://nikolaskama.me/content/images/2017/02/movies-for-hackers.png)](https://k4m4.github.io/movies-for-hackers)
 
 # Movies For Hackers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 

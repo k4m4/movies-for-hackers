@@ -88,6 +88,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/)                               | Science Fiction/Action    | 2003 | 7.2/10 |
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 |
+| [I, Robot](https://www.imdb.com/title/tt0343818/)                                          | Science Fiction/Action    | 2004 | 7.1/10 |
 
 
 ## Action

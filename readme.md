@@ -81,6 +81,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 |
 | [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
+| [Summer Wars](http://www.imdb.com/title/tt1474276/)                                        | Fantasy/Animation         | 2009 | 7.6/10 |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 |
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
@@ -88,7 +89,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/)                               | Science Fiction/Action    | 2003 | 7.2/10 |
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 |
-
 
 ## Action
 

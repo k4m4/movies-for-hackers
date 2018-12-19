@@ -152,10 +152,11 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [CSI: Cyber](http://www.imdb.com/title/tt3560060/)                                         | Crime/Drama/Mystery       | 2015 | 5.4/10 |
 | [Dark Net](http://www.imdb.com/title/tt5397520/)                                           | Documentary Series        | 2016 | 7.3/10 |
 | [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/)                                | Drama                     | 2014 | 8.3/10 |
+| [Max Headroom](http://www.imdb.com/title/tt0092402/)                                       | Cyberpunk/Comedy          | 1987 | 7.4/10 |
 | [Mr. Robot](http://www.imdb.com/title/tt4158110/)                                          | Thriller/Drama            | 2015 | 8.7/10 |
 | [Person of Interest](http://www.imdb.com/title/tt1839578/)                                 | Action/Crime/Drama        | 2011 | 8.5/10 |
 | [Scorpion](http://www.imdb.com/title/tt3514324/)                                           | Action/Drama              | 2014 | 7.2/10 |
-| [Serial Experiments Lain](http://www.imdb.com/title/tt0500092/)                            | Cyberpunk/Animation         | 1998 | 8.2/10 |
+| [Serial Experiments Lain](http://www.imdb.com/title/tt0500092/)                            | Cyberpunk/Animation       | 1998 | 8.2/10 |
 | [Silicon Valley](http://www.imdb.com/title/tt2575988/)                                     | Comedy                    | 2014 | 8.5/10 |
 | [StartUp](https://www.imdb.com/title/tt5028002/)                                           | Crime/Thriller            | 2016 | 8.1/10 |
 | [The Code](http://www.imdb.com/title/tt3914672/)                                           | Drama                     | 2014 | 7.6/10 |

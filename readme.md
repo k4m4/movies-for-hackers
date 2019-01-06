@@ -46,7 +46,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
 | [Reboot](http://www.imdb.com/title/tt2090594/)                                             | Thriller/Drama            | 2012 | 4.1/10 |
 | [Snowden](http://www.imdb.com/title/tt3774114/)                                            | Drama/Thriller            | 2016 | 7.3/10 |
-| [Source Code](http://www.imdb.com/title/tt0945513/)                                        | Drama/Thriller            | 2011 | 7.5/10 |
 | [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper Story/Thriller      | 2001 | 6.5/10 |
 | [Takedown](http://www.imdb.com/title/tt0159784/)                                           | Thriller/Drama            | 2000 | 6.3/10 |
 | [The Fifth Estate](http://www.imdb.com/title/tt1837703/)                                   | Thriller/Drama            | 2013 | 6.2/10 |

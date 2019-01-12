@@ -162,7 +162,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Drama/Thriller            | 2017 | 6.1/10 |
 | [Travelers](https://www.imdb.com/title/tt5651844/)                                         | Science Fiction           | 2016 | 8.0/10 |
-| [The Lone Gunmen](http://www.imdb.com/title/tt0243069)                                     | Comedy/Drama/Mystery      | 2001 | 7.5/10 |
+| [The Lone Gunmen](http://www.imdb.com/title/tt0243069)                                     | Comedy/Drama/Mystery      | 2001 | 7.4/10 |
 
 # Other Cool Lists
 

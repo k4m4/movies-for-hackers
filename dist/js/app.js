@@ -79,7 +79,7 @@ objectifyMarkdownNotWomen.heading = function(e, t) {
         heading: lastHeading,
         movies: movies
     }), movies = [{}]
-}, client.open("GET", window.location.href + "README.md"), client.onreadystatechange = function(e) {
+}, client.open("GET", window.location.href + "readme.md"), client.onreadystatechange = function(e) {
     document.getElementById("root").innerHTML = "", moviesCollection = [], movies = [{}], marked(client.responseText, {
         renderer: objectifyMarkdownNotWomen
     }, function() {

@@ -97,7 +97,7 @@ objectifyMarkdownNotWomen.table = function(header, body) {
 };
 
 // Ajax the markdown file with all movie data
-client.open('GET', window.location.href + 'README.md');
+client.open('GET', window.location.href + 'readme.md');
 client.onreadystatechange = function(e) {
   // Wipe movies, collections and content as this'll run a bunch of times
   document.getElementById('root').innerHTML = '';

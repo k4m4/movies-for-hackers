@@ -27,7 +27,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Thrillers / Drama
 
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
+| TITLE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [21](https://www.imdb.com/title/tt0478087/)                                                | Crime/Drama/Thriller      | 2008 | 6.8/10 |
 | [23](https://www.imdb.com/title/tt0126765/)                                                | Thriller/Drama            | 1998 | 7.3/10 |
@@ -65,7 +65,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Science Fiction / Fantasy
 
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
+| TITLE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)                             | Fantasy/Science fiction   | 1968 | 8.3/10 |
 | [Anon](https://www.imdb.com/title/tt5397194/)                                              | Science fiction/Thriller   | 2018 | 6/10 |
@@ -91,7 +91,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Action
 
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
+| TITLE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [Eagle Eye](https://www.imdb.com/title/tt1059786/)                                         | Thriller/Action           | 2008 | 6.6/10 |
 | [Echelon Conspiracy](https://www.imdb.com/title/tt1124039/)                                | Action/Crime/Mystery      | 2009 | 5.8/10 |
@@ -107,7 +107,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Documentaries
 
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
+| TITLE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [BBS: The Documentary](https://www.imdb.com/title/tt0460402/)                              | Documentary               | 2005 | 8.7/10 |
 | [Citizenfour](https://www.imdb.com/title/tt4044364/)                                       | Biography/Documentary     | 2014 | 8.1/10 |

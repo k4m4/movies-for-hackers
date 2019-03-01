@@ -62,6 +62,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [WarGames: The Dead Code](https://www.imdb.com/title/tt0865957/)                           | Thriller/Drama            | 2008 | 4.5/10 |
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Crime/Drama               | 2014 | 7.6/10 |
 | [The Circle](https://www.imdb.com/title/tt4287320/)                                        | Drama/Thriller            | 2017 | 5.3/10 |
+|[The Internship](https://www.imdb.com/title/tt2234155)                                  |Comedy                         | 2013 |6.3/10  |
 
 ## Science Fiction / Fantasy
 

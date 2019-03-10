@@ -160,6 +160,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [StartUp](https://www.imdb.com/title/tt5028002/)                                           | Crime/Thriller            | 2016 | 8.1/10 |
 | [The Code](https://www.imdb.com/title/tt3914672/)                                          | Drama                     | 2014 | 7.6/10 |
 | [The IT Crowd](https://www.imdb.com/title/tt0487831/)                                      | Comedy                    | 2006 | 8.6/10 |
+| [The Lone Gunmen](https://www.imdb.com/title/tt0243069)                                    | Comedy, Drama, Mystery    | 2001 | 7.4/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Drama/Thriller            | 2017 | 6.1/10 |
 | [Travelers](https://www.imdb.com/title/tt5651844/)                                         | Science Fiction           | 2016 | 8.0/10 |

@@ -48,6 +48,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Snowden](https://www.imdb.com/title/tt3774114/)                                           | Drama/Thriller            | 2016 | 7.3/10 |
 | [Swordfish](https://www.imdb.com/title/tt0244244/)                                         | Caper Story/Thriller      | 2001 | 6.5/10 |
 | [Takedown](https://www.imdb.com/title/tt0159784/)                                          | Thriller/Drama            | 2000 | 6.3/10 |
+| [The Circle](https://www.imdb.com/title/tt4287320/)                                        | Drama/Thriller            | 2017 | 5.3/10 |
 | [The Fifth Estate](https://www.imdb.com/title/tt1837703/)                                  | Thriller/Drama            | 2013 | 6.2/10 |
 | [The Girl with the Dragon Tattoo](https://www.imdb.com/title/tt1568346/)                   | Thriller/Drama            | 2011 | 7.8/10 |
 | [The Imitation Game](https://www.imdb.com/title/tt2084970/)                                | Drama/Thriller            | 2014 | 8.2/10 |
@@ -61,7 +62,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [WarGames](https://www.imdb.com/title/tt0086567/)                                          | Thriller/Drama            | 1983 | 7.1/10 |
 | [WarGames: The Dead Code](https://www.imdb.com/title/tt0865957/)                           | Thriller/Drama            | 2008 | 4.5/10 |
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Crime/Drama               | 2014 | 7.6/10 |
-| [The Circle](https://www.imdb.com/title/tt4287320/)                                        | Drama/Thriller            | 2017 | 5.3/10 |
 
 ## Science Fiction / Fantasy
 
@@ -99,11 +99,11 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Gamer](https://www.imdb.com/title/tt1034032/)                                             | Thriller/Action           | 2009 | 5.8/10 |
 | [Kung Fury](https://www.imdb.com/title/tt3472226/)                                         | Action/Comedy             | 2015 | 8.1/10 |
 | [Sneakers](https://www.imdb.com/title/tt0105435/)                                          | Thriller/Action           | 1992 | 7.1/10 |
+| [The Island](https://www.imdb.com/title/tt0399201/)                                        | Action/Adventure          | 2005 | 6.9/10 |
 | [The Italian Job](https://www.imdb.com/title/tt0317740/)                                   | Thriller/Action           | 2003 | 7.0/10 |
 | [Tron](https://www.imdb.com/title/tt0084827/)                                              | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](https://www.imdb.com/title/tt1104001/)                                      | Action/Adventure          | 2010 | 6.8/10 |
 | [Virtuosity](https://www.imdb.com/title/tt0114857/)                                        | Thriller/Action           | 1995 | 5.5/10 |
-| [The Island](https://www.imdb.com/title/tt0399201/)                                        | Action/Adventure          | 2005 | 6.9/10 |
 
 ## Documentaries
 
@@ -159,9 +159,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [StartUp](https://www.imdb.com/title/tt5028002/)                                           | Crime/Thriller            | 2016 | 8.1/10 |
 | [The Code](https://www.imdb.com/title/tt3914672/)                                          | Drama                     | 2014 | 7.6/10 |
 | [The IT Crowd](https://www.imdb.com/title/tt0487831/)                                      | Comedy                    | 2006 | 8.6/10 |
+| [Travelers](https://www.imdb.com/title/tt5651844/)                                         | Science Fiction           | 2016 | 8.0/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Drama/Thriller            | 2017 | 6.1/10 |
-| [Travelers](https://www.imdb.com/title/tt5651844/)                                         | Science Fiction           | 2016 | 8.0/10 |
 
 # Other Cool Lists
 

@@ -160,6 +160,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Code](https://www.imdb.com/title/tt3914672/)                                          | Drama                     | 2014 | 7.6/10 |
 | [The IT Crowd](https://www.imdb.com/title/tt0487831/)                                      | Comedy                    | 2006 | 8.6/10 |
 | [Travelers](https://www.imdb.com/title/tt5651844/)                                         | Science Fiction           | 2016 | 8.0/10 |
+| [Valley of the Boom](https://www.imdb.com/title/tt7768092/)                                | Documentary/Drama         | 2019 | 6.5/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Drama/Thriller            | 2017 | 6.1/10 |
 

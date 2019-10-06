@@ -39,7 +39,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Hacker's Game](https://www.imdb.com/title/tt3140724/)                                     | Drama/Thriller            | 2015 | 3.8/10 |
 | [Hackers](https://www.imdb.com/title/tt0113243/)                                           | Crime/Drama               | 1995 | 6.2/10 |
 | [I.T.](https://www.imdb.com/title/tt2679552/)                                              | Thriller/Drama/Crime      | 2016 | 5.4/10 |
-| [Listening](https://www.imdb.com/title/tt3153582/)                                         | Thriller/Drama            | 2014 | 5.6/10 | 
+| [Listening](https://www.imdb.com/title/tt3153582/)                                         | Thriller/Drama            | 2014 | 5.6/10 |
 | [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)                             | Thriller/Action           | 2007 | 7.2/10 |
 | [Office Space](https://www.imdb.com/title/tt0151804/)                                      | Romance/Comedy            | 1999 | 7.8/10 |
 | [Pi](https://www.imdb.com/title/tt0138704/)                                                | Drama/Mystery             | 1998 | 7.5/10 |
@@ -50,6 +50,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Takedown](https://www.imdb.com/title/tt0159784/)                                          | Thriller/Drama            | 2000 | 6.3/10 |
 | [The Circle](https://www.imdb.com/title/tt4287320/)                                        | Drama/Thriller            | 2017 | 5.3/10 |
 | [The Fifth Estate](https://www.imdb.com/title/tt1837703/)                                  | Thriller/Drama            | 2013 | 6.2/10 |
+| [The Girl in the Spider's Web](https://www.imdb.com/title/tt5177088/)                      | Thriller/Drama            | 2018 | 6.1/10 |
 | [The Girl with the Dragon Tattoo](https://www.imdb.com/title/tt1568346/)                   | Thriller/Drama            | 2011 | 7.8/10 |
 | [The Imitation Game](https://www.imdb.com/title/tt2084970/)                                | Drama/Thriller            | 2014 | 8.2/10 |
 | [The Net 2.0](https://www.imdb.com/title/tt0449077/)                                       | Thriller/Drama            | 2006 | 4.7/10 |

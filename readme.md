@@ -73,6 +73,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Avalon](https://www.imdb.com/title/tt0267287/)                                            | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](https://www.imdb.com/title/tt0083658/)                                      | Science Fiction/Thriller  | 1982 | 8.2/10 |
 | [Blade Runner 2049](https://www.imdb.com/title/tt1856101/)                                 | Science Fiction/Drama     | 2017 | 8.3/10 |
+| [Colossus: The Forbin Project](https://www.imdb.com/title/tt0064177/)                      | Science Fiction/Thriller  | 1970 | 7.1/10 |
 | [Ex Machina](https://www.imdb.com/title/tt0470752/)                                        | Fantasy/Mystery           | 2015 | 7.7/10 |
 | [eXistenZ](https://www.imdb.com/title/tt0120907/)                                          | Science Fiction/Thriller  | 1999 | 6.8/10 |
 | [Ghost in the Shell](https://www.imdb.com/title/tt0113568/)                                | Fantasy/Animation         | 1995 | 8.0/10 |

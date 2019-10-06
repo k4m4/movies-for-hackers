@@ -2,7 +2,7 @@
 
 # Movies For Hackers [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of movies every hacker & cyberpunk must watch.
+> A curated list of movies every hacker & cyberpunk must watch. Ratings are from [IMDb](https://www.imdb.com/).
 
 Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
 

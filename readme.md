@@ -35,7 +35,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Anonymous](https://www.imdb.com/title/tt3173594/)                                         | Crime/Drama/Thriller      | 2016 | 6.4/10 |
 | [Antitrust](https://www.imdb.com/title/tt0218817/)                                         | Thriller/Drama            | 2001 | 6.1/10 |
 | [Blackhat](https://www.imdb.com/title/tt2717822/)                                          | Drama/Thriller            | 2015 | 5.4/10 |
-| [Brazil](https://www.imdb.com/title/tt0088846/)                                            | Drama/Sci-Fi              | 1985 | 7.9/10 |
+| [Brazil](https://www.imdb.com/title/tt0088846/)                                            | Drama/Science Fiction     | 1985 | 7.9/10 |
 | [Enemy of the State](https://www.imdb.com/title/tt0120660/)                                | Thriller/Drama            | 1998 | 7.3/10 |
 | [Hacker's Game](https://www.imdb.com/title/tt3140724/)                                     | Drama/Thriller            | 2015 | 3.8/10 |
 | [Hackers](https://www.imdb.com/title/tt0113243/)                                           | Crime/Drama               | 1995 | 6.2/10 |
@@ -90,7 +90,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Transcendence](https://www.imdb.com/title/tt2209764/)                                     | Science Fiction/Drama     | 2014 | 6.3/10 |
 | [World on a Wire](https://www.imdb.com/title/tt0070904/)                                   | Science Fiction/Thriller  | 1973 | 7.9/10 |
 
-
 ## Action
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
@@ -143,7 +142,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary               | 2012 | 7.3/10 |
 | [We Steal Secrets: The Story of WikiLeaks](https://www.imdb.com/title/tt1824254/)          | Documentary               | 2013 | 6.9/10 |
 | [Zero Days](https://www.imdb.com/title/tt5446858/)                                         | Documentary               | 2016 | 7.8/10 |
-
 
 # TV Shows
 

@@ -121,6 +121,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Hackers Are People Too](https://www.imdb.com/title/tt1279942/)                            | Short Film/Documentary    | 2008 | 6.1/10 |
 | [Hacking Democracy](https://www.imdb.com/title/tt0808532/)                                 | Documentary               | 2006 | 7.9/10 |
 | [Hackers Wanted](https://www.imdb.com/title/tt2292707/)                                    | Indie Film/Documentary    | 2009 | 6.5/10 |
+| [Hackers: Wizards of the Electronic Age](https://www.imdb.com/title/tt1191116/)            | Documentary               | 1984 | 7.7/10 |
 | [In the Realm of the Hackers](https://www.imdb.com/title/tt1199631/)                       | Documentary               | 2003 | 7.4/10 |
 | [Indie Game: The Movie](https://www.imdb.com/title/tt1942884/)                             | Documentary               | 2012 | 7.7/10 |
 | [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)                         | Television Film/Docudrama | 1999 | 7.3/10 |

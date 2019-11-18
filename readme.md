@@ -132,6 +132,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [TPB AFK: The Pirate Bay Away from Keyboard](https://www.imdb.com/title/tt2608732/)        | Documentary               | 2013 | 7.6/10 |
 | [Terms and Conditions May Apply](https://www.imdb.com/title/tt2084953/)                    | Documentary               | 2013 | 7.4/10 |
 | [The Code](https://www.imdb.com/title/tt0315417/)                                          | Documentary               | 2001 | 7.5/10 |
+| [The Great Hack](https://www.imdb.com/title/tt9358204/)                                    | Documentary               | 2019 | 7.0/10 |
 | [The Hacker Wars](https://www.imdb.com/title/tt4047350/)                                   | Documentary               | 2014 | 6.6/10 |
 | [The Internet's Own Boy: The Story of Aaron Swartz](https://www.imdb.com/title/tt3268458/) | Documentary               | 2014 | 8.1/10 |
 | [The KGB, the Computer and Me](https://www.imdb.com/title/tt0308449/)                      | Documentary               | 1990 | 8.3/10 |

@@ -79,6 +79,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Ghost in the Shell](https://www.imdb.com/title/tt1219827/)                                | Science fiction/Action    | 2017 | 6.9/10 |
 | [Her](https://www.imdb.com/title/tt1798709/)                                               | Science Fiction/Romance   | 2013 | 8.0/10 |
 | [Inception](https://www.imdb.com/title/tt1375666/)                                         | Mystery/Science fiction   | 2010 | 8.8/10 |
+| [Interstellar](http://www.imdb.com/title/tt0816692/)                                       | Mystery/Science fiction   | 2010 | 8.6/10 |
 | [Johnny Mnemonic](https://www.imdb.com/title/tt0113481/)                                   | Science fiction/Action    | 1995 | 5.6/10 |
 | [Morgan](https://www.imdb.com/title/tt4520364/)                                            | Science Fiction/Thriller  | 2016 | 5.8/10 |
 | [One Point O](https://www.imdb.com/title/tt0317042/)                                       | Mystery/Science fiction   | 2004 | 6.2/10 |

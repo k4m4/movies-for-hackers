@@ -163,6 +163,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Valley of the Boom](https://www.imdb.com/title/tt7768092/)                                | Documentary/Drama         | 2019 | 6.5/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Drama/Thriller            | 2017 | 6.1/10 |
+| [The Lone Gunmen](http://www.imdb.com/title/tt0243069/)                                    | Comedy/Drama/Mystery      | 2001 | 7.5/10 |
 
 # Other Cool Lists
 

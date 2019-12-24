@@ -36,6 +36,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Blackhat](https://www.imdb.com/title/tt2717822/)                                          | Drama/Thriller            | 2015 | 5.4/10 |
 | [Brazil](https://www.imdb.com/title/tt0088846/)                                            | Drama/Science Fiction     | 1985 | 7.9/10 |
 | [Enemy of the State](https://www.imdb.com/title/tt0120660/)                                | Thriller/Drama            | 1998 | 7.3/10 |
+| [Hacker](https://www.imdb.com/title/tt3173594/)                                            | Crime/Drama/Thriller      | 2016 | 6.2/10 |
 | [Hacker's Game](https://www.imdb.com/title/tt3140724/)                                     | Drama/Thriller            | 2015 | 3.8/10 |
 | [Hackers](https://www.imdb.com/title/tt0113243/)                                           | Crime/Drama               | 1995 | 6.2/10 |
 | [I.T.](https://www.imdb.com/title/tt2679552/)                                              | Thriller/Drama/Crime      | 2016 | 5.4/10 |

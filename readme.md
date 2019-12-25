@@ -39,11 +39,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Hacker's Game](https://www.imdb.com/title/tt3140724/)                                     | Drama/Thriller            | 2015 | 3.8/10 |
 | [Hackers](https://www.imdb.com/title/tt0113243/)                                           | Crime/Drama               | 1995 | 6.2/10 |
 | [I.T.](https://www.imdb.com/title/tt2679552/)                                              | Thriller/Drama/Crime      | 2016 | 5.4/10 |
-| [Listening](https://www.imdb.com/title/tt3153582/)                                         | Thriller/Drama            | 2014 | 5.6/10 | 
+| [Listening](https://www.imdb.com/title/tt3153582/)                                         | Thriller/Drama            | 2014 | 5.6/10 |
 | [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)                             | Thriller/Action           | 2007 | 7.2/10 |
 | [Office Space](https://www.imdb.com/title/tt0151804/)                                      | Romance/Comedy            | 1999 | 7.8/10 |
 | [Pi](https://www.imdb.com/title/tt0138704/)                                                | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](https://www.imdb.com/title/tt0390384/)                                            | Drama/Thriller            | 2004 | 7.0/10 |
+| [Prisoners](https://www.imdb.com/title/tt1392214/)                                         | Crime/Drama/Mystery       | 2013 | 8.1/10 |
 | [Reboot](https://www.imdb.com/title/tt2090594/)                                            | Thriller/Drama            | 2012 | 4.1/10 |
 | [Snowden](https://www.imdb.com/title/tt3774114/)                                           | Drama/Thriller            | 2016 | 7.3/10 |
 | [Swordfish](https://www.imdb.com/title/tt0244244/)                                         | Caper Story/Thriller      | 2001 | 6.5/10 |

@@ -163,6 +163,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Valley of the Boom](https://www.imdb.com/title/tt7768092/)                                | Documentary/Drama         | 2019 | 6.5/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Thriller/Drama            | 2017 | 6.1/10 |
+| [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)                              | Cyberpunk/Animation       | 2019 | 8.6/10 |
 
 # Other Cool Lists
 

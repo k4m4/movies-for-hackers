@@ -149,6 +149,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [Black Mirror](https://www.imdb.com/title/tt2085059/)                                      | Drama/Science Fiction     | 2011 | 8.9/10 |
 | [CSI: Cyber](https://www.imdb.com/title/tt3560060/)                                        | Drama/Crime/Mystery       | 2015 | 5.4/10 |
+| [Condor](https://www.imdb.com/title/tt6510950/)                                            | Action/Drama/Thriller     | 2018 | 7.8/10 |
 | [Dark Net](https://www.imdb.com/title/tt5397520/)                                          | Documentary/Series        | 2016 | 7.3/10 |
 | [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)                               | Drama                     | 2014 | 8.3/10 |
 | [Mr. Robot](https://www.imdb.com/title/tt4158110/)                                         | Thriller/Drama            | 2015 | 8.7/10 |
@@ -163,7 +164,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Valley of the Boom](https://www.imdb.com/title/tt7768092/)                                | Documentary/Drama         | 2019 | 6.5/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Thriller/Drama            | 2017 | 6.1/10 |
-| [Condor](https://www.imdb.com/title/tt6510950/)                                            | Action/Drama/Thriller     | 2018 | 7.8/10 |
 
 # Other Cool Lists
 

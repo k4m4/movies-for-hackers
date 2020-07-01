@@ -39,7 +39,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Hacker's Game](https://www.imdb.com/title/tt3140724/)                                     | Thriller/Drama            | 2015 | 3.8/10 |
 | [Hackers](https://www.imdb.com/title/tt0113243/)                                           | Drama/Crime               | 1995 | 6.2/10 |
 | [I.T.](https://www.imdb.com/title/tt2679552/)                                              | Thriller/Drama/Crime      | 2016 | 5.4/10 |
-| [Listening](https://www.imdb.com/title/tt3153582/)                                         | Thriller/Drama            | 2014 | 5.6/10 | 
+| [Listening](https://www.imdb.com/title/tt3153582/)                                         | Thriller/Drama            | 2014 | 5.6/10 |
 | [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)                             | Thriller/Action           | 2007 | 7.2/10 |
 | [Office Space](https://www.imdb.com/title/tt0151804/)                                      | Comedy/Romance            | 1999 | 7.8/10 |
 | [Pi](https://www.imdb.com/title/tt0138704/)                                                | Drama/Mystery             | 1998 | 7.5/10 |
@@ -150,6 +150,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Black Mirror](https://www.imdb.com/title/tt2085059/)                                      | Drama/Science Fiction     | 2011 | 8.9/10 |
 | [CSI: Cyber](https://www.imdb.com/title/tt3560060/)                                        | Drama/Crime/Mystery       | 2015 | 5.4/10 |
 | [Dark Net](https://www.imdb.com/title/tt5397520/)                                          | Documentary/Series        | 2016 | 7.3/10 |
+| [Devs](https://www.imdb.com/title/tt8134186/)                                              | Drama/Mystery/Sci-Fi      | 2020 | 7.9/10 |
 | [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)                               | Drama                     | 2014 | 8.3/10 |
 | [Mr. Robot](https://www.imdb.com/title/tt4158110/)                                         | Thriller/Drama            | 2015 | 8.7/10 |
 | [Person of Interest](https://www.imdb.com/title/tt1839578/)                                | Action/Crime/Drama        | 2011 | 8.5/10 |

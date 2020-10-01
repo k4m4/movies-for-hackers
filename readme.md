@@ -105,6 +105,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron: Legacy](https://www.imdb.com/title/tt1104001/)                                      | Action/Adventure          | 2010 | 6.8/10 |
 | [Virtuosity](https://www.imdb.com/title/tt0114857/)                                        | Action/Thriller           | 1995 | 5.5/10 |
 | [Password](https://www.imdb.com/title/tt10912588/)                                         | Action/Thriller           | 2019 | 6.5/10 |
+| [The Girl in the Spider’s Web](https://www.imdb.com/title/tt5177088/)                      | Action/Drama              | 2018 | 6.1/10 |
 
 ## Documentaries
 

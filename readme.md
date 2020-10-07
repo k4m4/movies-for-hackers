@@ -62,6 +62,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [WarGames](https://www.imdb.com/title/tt0086567/)                                          | Thriller/Drama            | 1983 | 7.1/10 |
 | [WarGames: The Dead Code](https://www.imdb.com/title/tt0865957/)                           | Thriller/Drama            | 2008 | 4.5/10 |
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Drama/Crime               | 2014 | 7.6/10 |
+| [Hidden Figures](https://www.imdb.com/title/tt4846340)                                     | Biography/Drama/History   | 2017 | 7.8/10 |
 
 ## Science Fiction / Fantasy
 

@@ -12,6 +12,9 @@
 * Insert new suggestions at the bottom of a category.
 * Use IMDb links & ratings.
 
+Once a PR is submitted, it will need to be "endorsed". This entails that your pull request will be merged once more people show interest in your suggestion (i.e. react positively, comment on your pull-req etc.)
+
+You can vote on Pull Requests with the [endorsement-needed](https://github.com/k4m4/movies-for-hackers/labels/endorsement-needed) tag.
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). 
 By participating in this project you agree to abide by its terms.

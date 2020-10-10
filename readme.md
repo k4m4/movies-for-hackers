@@ -123,6 +123,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Hackers Wanted](https://www.imdb.com/title/tt2292707/)                                    | Documentary/Indie Film    | 2009 | 6.5/10 |
 | [In the Realm of the Hackers](https://www.imdb.com/title/tt1199631/)                       | Documentary               | 2003 | 7.4/10 |
 | [Indie Game: The Movie](https://www.imdb.com/title/tt1942884/)                             | Documentary               | 2012 | 7.7/10 |
+| [Kim Dotcom: Caught in the Web](http://www.imdb.com/title/tt3640710/)                      | Documentary               | 2017 | 7.0/10 |
 | [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)                         | Documentary/Drama/TV Film | 1999 | 7.3/10 |
 | [Plug and Pray](https://www.imdb.com/title/tt1692889/)                                     | Documentary               | 2010 | 7.2/10 |
 | [Revolution OS](https://www.imdb.com/title/tt0308808/)                                     | Documentary/Indie Film    | 2001 | 7.3/10 |

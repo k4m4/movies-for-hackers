@@ -104,6 +104,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron](https://www.imdb.com/title/tt0084827/)                                              | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](https://www.imdb.com/title/tt1104001/)                                      | Action/Adventure          | 2010 | 6.8/10 |
 | [Virtuosity](https://www.imdb.com/title/tt0114857/)                                        | Thriller/Action           | 1995 | 5.5/10 |
+| [Skyscraper](https://www.imdb.com/title/tt5758778/)					     | Thriller/Action		 | 2018 | 5.8/10 |
 
 ## Documentaries
 

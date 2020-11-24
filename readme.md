@@ -88,6 +88,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Matrix](https://www.imdb.com/title/tt0133093/)                                        | Fantasy/Action            | 1999 | 8.7/10 |
 | [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/)                               | Science Fiction/Action    | 2003 | 7.2/10 |
 | [Transcendence](https://www.imdb.com/title/tt2209764/)                                     | Science Fiction/Drama     | 2014 | 6.3/10 |
+| [Virus](https://www.imdb.com/title/tt0120458/)                                             | Science Fiction/Action    | 1999 | 5.0/10 |
 | [World on a Wire](https://www.imdb.com/title/tt0070904/)                                   | Science Fiction/Thriller  | 1973 | 7.9/10 |
 
 ## Action

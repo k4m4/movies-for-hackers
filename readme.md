@@ -94,6 +94,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [Death Machine](https://www.imdb.com/title/tt0109575/)                                     | Action/Thriller           | 1994 | 5.7/10 |
 | [Eagle Eye](https://www.imdb.com/title/tt1059786/)                                         | Action/Thriller           | 2008 | 6.6/10 |
 | [Echelon Conspiracy](https://www.imdb.com/title/tt1124039/)                                | Action/Crime/Mystery      | 2009 | 5.8/10 |
 | [Firewall](https://www.imdb.com/title/tt0408345/)                                          | Action/Thriller           | 2006 | 5.8/10 |

@@ -84,6 +84,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Morgan](https://www.imdb.com/title/tt4520364/)                                            | Science Fiction/Thriller  | 2016 | 5.8/10 |
 | [One Point O](https://www.imdb.com/title/tt0317042/)                                       | Science Fiction/Mystery   | 2004 | 6.2/10 |
 | [Open Windows](https://www.imdb.com/title/tt2409818/)                                      | Fantasy/Crime             | 2014 | 5.2/10 |
+| [Screamers](https://www.imdb.com/title/tt0114367/)                                         | Science Fiction/Action    | 1995 | 6.4/10 |
 | [The Lawnmower Man](https://www.imdb.com/title/tt0104692/)                                 | Fantasy/Action            | 1992 | 5.4/10 |
 | [The Matrix](https://www.imdb.com/title/tt0133093/)                                        | Fantasy/Action            | 1999 | 8.7/10 |
 | [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/)                               | Science Fiction/Action    | 2003 | 7.2/10 |

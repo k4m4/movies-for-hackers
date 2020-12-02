@@ -119,6 +119,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Downloaded](https://www.imdb.com/title/tt2033981/)                                        | Documentary               | 2013 | 6.8/10 |
 | [Freedom Downtime](https://www.imdb.com/title/tt0309614/)                                  | Documentary               | 2001 | 7.6/10 |
 | [Good Copy Bad Copy](https://www.imdb.com/title/tt1782451/)                                | Documentary               | 2007 | 7.2/10 |
+| [Hackers: Wizards of the Electronic Age](https://www.imdb.com/title/tt1191116/)            | Documentary               | 1984 | 7.7/10 |
 | [Hackers Are People Too](https://www.imdb.com/title/tt1279942/)                            | Documentary/Short Film    | 2008 | 6.1/10 |
 | [Hacking Democracy](https://www.imdb.com/title/tt0808532/)                                 | Documentary               | 2006 | 7.9/10 |
 | [Hackers Wanted](https://www.imdb.com/title/tt2292707/)                                    | Documentary/Indie Film    | 2009 | 6.5/10 |

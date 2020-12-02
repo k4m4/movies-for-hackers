@@ -100,6 +100,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Gamer](https://www.imdb.com/title/tt1034032/)                                             | Action/Thriller           | 2009 | 5.8/10 |
 | [Kung Fury](https://www.imdb.com/title/tt3472226/)                                         | Action/Comedy             | 2015 | 8.1/10 |
 | [Sneakers](https://www.imdb.com/title/tt0105435/)                                          | Action/Thriller           | 1992 | 7.1/10 |
+| [Strange Days](https://www.imdb.com/title/tt0114558/)                                      | Action/Crime/Thriller     | 1995 | 7.2/10 |
 | [The Island](https://www.imdb.com/title/tt0399201/)                                        | Action/Adventure          | 2005 | 6.9/10 |
 | [The Italian Job](https://www.imdb.com/title/tt0317740/)                                   | Action/Thriller           | 2003 | 7.0/10 |
 | [Tron](https://www.imdb.com/title/tt0084827/)                                              | Action/Adventure          | 1982 | 6.8/10 |

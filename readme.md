@@ -87,6 +87,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Lawnmower Man](https://www.imdb.com/title/tt0104692/)                                 | Fantasy/Action            | 1992 | 5.4/10 |
 | [The Matrix](https://www.imdb.com/title/tt0133093/)                                        | Fantasy/Action            | 1999 | 8.7/10 |
 | [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/)                               | Science Fiction/Action    | 2003 | 7.2/10 |
+| [The Zero Theorem](https://www.imdb.com/title/tt2333804/)                                  | Comedy/Drama/Fantasy      | 2013 | 6.1/10 |
 | [Transcendence](https://www.imdb.com/title/tt2209764/)                                     | Science Fiction/Drama     | 2014 | 6.3/10 |
 | [World on a Wire](https://www.imdb.com/title/tt0070904/)                                   | Science Fiction/Thriller  | 1973 | 7.9/10 |
 

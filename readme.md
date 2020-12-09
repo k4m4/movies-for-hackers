@@ -51,6 +51,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Takedown](https://www.imdb.com/title/tt0159784/)                                          | Thriller/Drama            | 2000 | 6.3/10 |
 | [The Circle](https://www.imdb.com/title/tt4287320/)                                        | Thriller/Drama            | 2017 | 5.3/10 |
 | [The Fifth Estate](https://www.imdb.com/title/tt1837703/)                                  | Thriller/Drama            | 2013 | 6.2/10 |
+| [The Girl in the Spider's Web](https://www.imdb.com/title/tt5177088/)                      | Thriller/Drama            | 2018 | 6.1/10 |
 | [The Girl with the Dragon Tattoo](https://www.imdb.com/title/tt1568346/)                   | Thriller/Drama            | 2011 | 7.8/10 |
 | [The Imitation Game](https://www.imdb.com/title/tt2084970/)                                | Thriller/Drama            | 2014 | 8.2/10 |
 | [The Net 2.0](https://www.imdb.com/title/tt0449077/)                                       | Thriller/Drama            | 2006 | 4.7/10 |

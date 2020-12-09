@@ -43,6 +43,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Listening](https://www.imdb.com/title/tt3153582/)                                         | Thriller/Drama            | 2014 | 5.6/10 |
 | [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)                             | Thriller/Action           | 2007 | 7.2/10 |
 | [Office Space](https://www.imdb.com/title/tt0151804/)                                      | Comedy/Romance            | 1999 | 7.8/10 |
+| [Official Secrets](https://www.imdb.com/title/tt5431890/)                                  | Biography/Drama/Crime     | 2019 | 7.3/10 |
 | [Pi](https://www.imdb.com/title/tt0138704/)                                                | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](https://www.imdb.com/title/tt0390384/)                                            | Thriller/Drama            | 2004 | 7.0/10 |
 | [Reboot](https://www.imdb.com/title/tt2090594/)                                            | Thriller/Drama            | 2012 | 4.1/10 |

@@ -60,6 +60,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/)                              | Thriller/Mystery          | 1999 | 7.0/10 |
 | [Underground: The Julian Assange Story](https://www.imdb.com/title/tt2357453/)             | Drama/Biography           | 2012 | 6.8/10 |
 | [Untraceable](https://www.imdb.com/title/tt0880578/)                                       | Thriller/Slasher          | 2008 | 6.2/10 |
+| [V for Vendetta](https://www.imdb.com/title/tt0434409/)                                    | Thriller/Drama            | 2005 | 8.2/10 |
 | [WarGames](https://www.imdb.com/title/tt0086567/)                                          | Thriller/Drama            | 1983 | 7.1/10 |
 | [WarGames: The Dead Code](https://www.imdb.com/title/tt0865957/)                           | Thriller/Drama            | 2008 | 4.5/10 |
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Drama/Crime               | 2014 | 7.6/10 |

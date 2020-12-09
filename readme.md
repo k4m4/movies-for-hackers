@@ -145,6 +145,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary               | 2012 | 7.3/10 |
 | [We Steal Secrets: The Story of WikiLeaks](https://www.imdb.com/title/tt1824254/)          | Documentary               | 2013 | 6.9/10 |
 | [Zero Days](https://www.imdb.com/title/tt5446858/)                                         | Documentary               | 2016 | 7.8/10 |
+| [The Great Hack](https://www.imdb.com/title/tt9358204/)                                    | Documentary               | 2019 | 7.0/10 |
 
 # TV Shows
 

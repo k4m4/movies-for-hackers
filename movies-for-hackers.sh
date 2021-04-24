@@ -40,3 +40,11 @@ ${ECHO} $blue "           	           Made with <3 by:"$green" Nikolaos Kamarina
 sleep 0.1
 
 ${ECHO} ""
+
+jq -Rn '
+  {"items":
+    [inputs
+     | . / "\n"
+     | (.[] | select(length > 0) | . / ",") as $input
+     | {"imdb": $input[0], "title": $input[1], "genre": $input[2], "year": $input[3], "rating": $input[4]}]}
+' < movies-for-hackers.csv

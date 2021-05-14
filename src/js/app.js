@@ -80,11 +80,9 @@ objectifyMarkdownNotWomen.tablecell = function(content, flags) {
 };
 
 objectifyMarkdownNotWomen.table = function(header, body) {
-  // Test if the first movie object is actually just the headers (which it will be)
-  if (movies[0][headers[0]].toLowerCase() == headers[0]) {
-    movies.splice(0, 1);
-  }
-  // Similarly, test if the very last movie object is empty and pop it
+  // Remove the headers
+  movies.shift();
+  // Test if the very last movie object is empty and pop it
   if (movies[movies.length - 1][headers[0]] == null) {
     movies.pop();
   }

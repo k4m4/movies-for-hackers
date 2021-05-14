@@ -75,7 +75,7 @@ objectifyMarkdownNotWomen.heading = function(e, t) {
 }, objectifyMarkdownNotWomen.tablecell = function(e, t) {
     movies[movies.length - 1][headers[cellCounter]] = e, cellCounter++
 }, objectifyMarkdownNotWomen.table = function(e, t) {
-    movies[0][headers[0]].toLowerCase() == headers[0] && movies.splice(0, 1), null == movies[movies.length - 1][headers[0]] && movies.pop(), moviesCollection.push({
+    movies.shift(), null == movies[movies.length - 1][headers[0]] && movies.pop(), moviesCollection.push({
         heading: lastHeading,
         movies: movies
     }), movies = [{}]

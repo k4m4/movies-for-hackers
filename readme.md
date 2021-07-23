@@ -155,6 +155,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Dark Net](https://www.imdb.com/title/tt5397520/)                                          | Documentary/Series        | 2016 | 7.3/10 |
 | [Devs](https://www.imdb.com/title/tt8134186/)                                              | Drama/Mystery/Sci-Fi      | 2020 | 7.9/10 |
 | [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)                               | Drama                     | 2014 | 8.3/10 |
+| [Max Headroom](https://www.imdb.com/title/tt0092402/)                                      | Cyberpunk/Comedy          | 1987 | 7.4/10 |
 | [Mr. Robot](https://www.imdb.com/title/tt4158110/)                                         | Thriller/Drama            | 2015 | 8.7/10 |
 | [Person of Interest](https://www.imdb.com/title/tt1839578/)                                | Action/Crime/Drama        | 2011 | 8.5/10 |
 | [Scorpion](https://www.imdb.com/title/tt3514324/)                                          | Action/Drama              | 2014 | 7.2/10 |

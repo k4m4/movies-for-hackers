@@ -104,6 +104,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron](https://www.imdb.com/title/tt0084827/)                                              | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](https://www.imdb.com/title/tt1104001/)                                      | Action/Adventure          | 2010 | 6.8/10 |
 | [Virtuosity](https://www.imdb.com/title/tt0114857/)                                        | Action/Thriller           | 1995 | 5.5/10 |
+| [Source Code](https://www.imdb.com/title/tt0945513/)                                       | Action/Drama/Thriller     | 2011 | 7.5/10 |
 
 ## Documentaries
 
@@ -164,6 +165,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Valley of the Boom](https://www.imdb.com/title/tt7768092/)                                | Documentary/Drama         | 2019 | 6.5/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Thriller/Drama            | 2017 | 6.1/10 |
+| [Upload](https://www.imdb.com/title/tt7826376/)                                            | Drama/Mystery/Sci-Fi      | 2020 | 8.0/10 |
 
 # Other Cool Lists
 

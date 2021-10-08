@@ -63,6 +63,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [WarGames](https://www.imdb.com/title/tt0086567/)                                          | Thriller/Drama            | 1983 | 7.1/10 |
 | [WarGames: The Dead Code](https://www.imdb.com/title/tt0865957/)                           | Thriller/Drama            | 2008 | 4.5/10 |
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Drama/Crime               | 2014 | 7.6/10 |
+| [The Conversation](https://www.imdb.com/title/tt0071360/)                                  | Drama/Mystery/Thriller    | 1974 | 7.8/10 |
+| [Prime Risk](https://www.imdb.com/title/tt0087942/)                                        | Crime/Drama/Thriller      | 1985 | 5.6/10 |
+| [Disclosure](https://www.imdb.com/title/tt0109635/)                                        | Drama/Thriller            | 1994 | 6.1/10 |
 
 ## Science Fiction / Fantasy
 
@@ -105,6 +108,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Tron](https://www.imdb.com/title/tt0084827/)                                              | Action/Adventure          | 1982 | 6.8/10 |
 | [Tron: Legacy](https://www.imdb.com/title/tt1104001/)                                      | Action/Adventure          | 2010 | 6.8/10 |
 | [Virtuosity](https://www.imdb.com/title/tt0114857/)                                        | Action/Thriller           | 1995 | 5.5/10 |
+| [The Computer Wore Tennis Shoes](https://www.imdb.com/title/tt0065566/)                    | Comedy/Family             | 1969 | 6.0/10 |
 
 ## Documentaries
 

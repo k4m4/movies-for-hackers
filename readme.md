@@ -65,6 +65,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Drama/Crime               | 2014 | 7.6/10 |
 | [The Conversation](https://www.imdb.com/title/tt0071360/)                                  | Drama/Mystery/Thriller    | 1974 | 7.8/10 |
 | [Prime Risk](https://www.imdb.com/title/tt0087942/)                                        | Crime/Drama/Thriller      | 1985 | 5.6/10 |
+| [Disclosure](https://www.imdb.com/title/tt0109635/)                                        | Drama/Thriller            | 1994 | 6.1/10 |
 
 ## Science Fiction / Fantasy
 

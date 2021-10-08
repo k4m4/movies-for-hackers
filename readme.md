@@ -64,6 +64,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [WarGames: The Dead Code](https://www.imdb.com/title/tt0865957/)                           | Thriller/Drama            | 2008 | 4.5/10 |
 | [Who Am I](https://www.imdb.com/title/tt3042408/)                                          | Drama/Crime               | 2014 | 7.6/10 |
 | [The Conversation](https://www.imdb.com/title/tt0071360/)                                  | Drama/Mystery/Thriller    | 1974 | 7.8/10 |
+| [Prime Risk](https://www.imdb.com/title/tt0087942/)                                        | Crime/Drama/Thriller      | 1985 | 5.6/10 |
 
 ## Science Fiction / Fantasy
 

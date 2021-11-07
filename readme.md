@@ -110,8 +110,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [The Social Dilemma](https://www.imdb.com/title/tt11464826/)                               | Documentary/Drama         | 2020 | 7.6/10 |
 | [BBS: The Documentary](https://www.imdb.com/title/tt0460402/)                              | Documentary               | 2005 | 8.7/10 |
-| [Citizenfour](https://www.imdb.com/title/tt4044364/)                                       | Documentary/Biography    | 2014 | 8.1/10 |
+| [Citizenfour](https://www.imdb.com/title/tt4044364/)                                       | Documentary/Biography     | 2014 | 8.1/10 |
 | [Code 2600](https://www.imdb.com/title/tt1830538/)                                         | Documentary               | 2012 | 7.4/10 |
 | [Deep Web](https://www.imdb.com/title/tt3312868/)                                          | Documentary               | 2015 | 7.1/10 |
 | [DEFCON: The Documentary](https://www.imdb.com/title/tt3010462/)                           | Documentary               | 2013 | 5.7/10 |

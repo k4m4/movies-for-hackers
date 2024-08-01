@@ -168,6 +168,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama/Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Thriller/Drama            | 2017 | 6.1/10 |
 
+# Anime Shows
+
+| TITLE                                                                                      | GENRE                     | YEAR | RATING |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+|[Battle Programmer Shirase](https://www.imdb.com/title/tt1587391)                           | Comedy/Sci-Fi/Animation   | 2003 | 6.4/10 |
+
 # Other Cool Lists
 
 *Here are some more cool lists.*

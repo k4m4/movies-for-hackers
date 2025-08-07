@@ -46,6 +46,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Pi](https://www.imdb.com/title/tt0138704/)                                                | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](https://www.imdb.com/title/tt0390384/)                                            | Thriller/Drama            | 2004 | 7.0/10 |
 | [Reboot](https://www.imdb.com/title/tt2090594/)                                            | Thriller/Drama            | 2012 | 4.1/10 |
+| [Silk Road](https://www.imdb.com/title/tt7937254/)                                         | Thriller/Drama            | 2021 | 6.0/10 |
 | [Snowden](https://www.imdb.com/title/tt3774114/)                                           | Thriller/Drama            | 2016 | 7.3/10 |
 | [Swordfish](https://www.imdb.com/title/tt0244244/)                                         | Thriller/Caper Story      | 2001 | 6.5/10 |
 | [Takedown](https://www.imdb.com/title/tt0159784/)                                          | Thriller/Drama            | 2000 | 6.3/10 |

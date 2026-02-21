@@ -154,6 +154,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [CSI: Cyber](https://www.imdb.com/title/tt3560060/)                                        | Drama/Crime/Mystery       | 2015 | 5.4/10 |
 | [Dark Net](https://www.imdb.com/title/tt5397520/)                                          | Documentary/Series        | 2016 | 7.3/10 |
 | [Devs](https://www.imdb.com/title/tt8134186/)                                              | Drama/Mystery/Sci-Fi      | 2020 | 7.9/10 |
+| [Don't F**k with Cats: Hunting an Internet Killer](https://www.imdb.com/title/tt11318602/)                               | Documentary/Crime                      | 2019  | 8.0/10 |
 | [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)                               | Drama                     | 2014 | 8.3/10 |
 | [Mr. Robot](https://www.imdb.com/title/tt4158110/)                                         | Thriller/Drama            | 2015 | 8.7/10 |
 | [Person of Interest](https://www.imdb.com/title/tt1839578/)                                | Action/Crime/Drama        | 2011 | 8.5/10 |

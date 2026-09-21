@@ -68,7 +68,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)                             | Science Fiction/Fantasy   | 1968 | 8.3/10 |
+| [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)                             | Science Fiction/Thriller   | 1968 | 8.3/10 |
 | [Anon](https://www.imdb.com/title/tt5397194/)                                              | Science Fiction/Thriller  | 2018 | 6/10   |
 | [Avalon](https://www.imdb.com/title/tt0267287/)                                            | Science Fiction/Fantasy   | 2001 | 6.6/10 |
 | [Blade Runner](https://www.imdb.com/title/tt0083658/)                                      | Science Fiction/Thriller  | 1982 | 8.2/10 |
